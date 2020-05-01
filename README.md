@@ -18,7 +18,7 @@ torch == 1.5.0
 tqdm == 4.42.1
 ```
 
-### Pretrained network
+### Pretrained models
 Pretrained models are also available here:  
 - [GPT2-finetuned-on-dailydialog]()
 - [OpenNMT-dialogue-system-on-dailydialog]()
