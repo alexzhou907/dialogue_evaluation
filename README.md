@@ -20,7 +20,7 @@ tqdm == 4.42.1
 
 ### Pretrained models
 Pretrained models are also available here:  
-- [GPT2-finetuned-on-dailydialog]()
+- [GPT2-finetuned-on-dailydialog](https://drive.google.com/file/d/1kNBYgIucYRBXYdCnn8CQ5mSRLYKuL4Y2/view?usp=sharing)
 - [OpenNMT-dialogue-system-on-dailydialog]()
 
 Please refer to OpenNMT website for OpenNMT model [here](https://opennmt.net/)
@@ -46,7 +46,7 @@ YOUR_FILE
 **OpenNMT**:`-data
 YOUR_PROCESSED_DATA
 -save_model
-YOUR_PATHH
+YOUR_PATH
 -layers
 6
 -rnn_size
