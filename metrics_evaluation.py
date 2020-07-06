@@ -1,4 +1,4 @@
-# from pytorch_pretrained_bert import GPT2LMHeadModel, GPT2Tokenizer
+from pytorch_pretrained_bert import GPT2LMHeadModel, GPT2Tokenizer
 import torch
 import numpy as np
 import pandas as pd
