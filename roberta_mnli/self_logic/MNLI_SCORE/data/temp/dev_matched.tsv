@@ -1,0 +1,7 @@
+index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	sentence1_parse	sentence2_parse	sentence1	sentence2	label1	label2	label3	label4	label5	gold_label
+0	x	x	x	x	x	x	x	Hey man , you wanna buy some weed ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	Weed ! You know ? Pot , Ganja , Mary Jane some chronic !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	I also have blow if you prefer to do a few lines .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	Come on man ! I even got dope and acid ! Try some !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	I got my connections ! Just tell me what you want and I will ll even give you one ounce for free .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	i get them from the club i work at	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
