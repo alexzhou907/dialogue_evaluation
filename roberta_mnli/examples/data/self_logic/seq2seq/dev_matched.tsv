@@ -1,0 +1,330 @@
+index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	sentence1_parse	sentence2_parse	sentence1	sentence2	label1	label2	label3	label4	label5	gold_label
+0	x	x	x	x	x	x	x	Some what ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	Some what ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	Some what ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	Oh , umm , no thanks .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	No , I am ok , really .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	No , I am ok , really .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Some what ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Oh , umm , no thanks .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	No , I am ok , really .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Do you really have all of these drugs ? Where do you get them from ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Do you really have all of their drugs ? Where do you get them from ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	What for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	What for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+4	x	x	x	x	x	x	x	The taxi drivers are on strike again .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+4	x	x	x	x	x	x	x	They want the government to reduce the price of the gasoline .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+4	x	x	x	x	x	x	x	They want the government to reduce the price of the gasoline .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+5	x	x	x	x	x	x	x	That's excellent . How have you managed that ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+5	x	x	x	x	x	x	x	That's excellent . How have you managed that ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+6	x	x	x	x	x	x	x	That's excellent . How have you managed that ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+6	x	x	x	x	x	x	x	What does that mean exactly ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+6	x	x	x	x	x	x	x	What does that mean exactly ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	Believe it or not , tea is the most popular beverage in the world after water .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	Right . And China is the homeland of tea .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	Do you know there are several catagories of Chinese tea ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	Do you know there are several catagories of Chinese tea ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+8	x	x	x	x	x	x	x	What are your personal weaknesses ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+8	x	x	x	x	x	x	x	Are you more of a leader or a follower ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+8	x	x	x	x	x	x	x	Are you more of a follower or a leader ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+9	x	x	x	x	x	x	x	What are your personal weaknesses ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+9	x	x	x	x	x	x	x	Are you more of a leader or a follower ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+9	x	x	x	x	x	x	x	Do you think you can make yourself easily understood in English ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+9	x	x	x	x	x	x	x	Do you think you can make yourself easily understood in advance ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+10	x	x	x	x	x	x	x	I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+10	x	x	x	x	x	x	x	I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+11	x	x	x	x	x	x	x	I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+11	x	x	x	x	x	x	x	you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+11	x	x	x	x	x	x	x	you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	how long will it take us to drive to London ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	that ’ s unless there is a traffic jam . It could take three hours .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	so , shall we allow three hours to cover the distance ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	so , shall we allow three hours to cover the distance ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+13	x	x	x	x	x	x	x	Do you want the truth ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+13	x	x	x	x	x	x	x	Do you want the truth ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+14	x	x	x	x	x	x	x	So how did I do on my driving test ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+14	x	x	x	x	x	x	x	Of course , I do .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+14	x	x	x	x	x	x	x	How bad did I do ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+14	x	x	x	x	x	x	x	How bad did I do ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	So how did I do on my driving test ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	Of course , I do .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	How bad did I do ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	How ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	What were they ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	What were they ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	So how did I do on my driving test ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	Of course , I do .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	How bad did I do ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	How ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	What were they ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	Can I have another try ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	Can I have another try ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	Good morning , doctor . I have a terrible headache .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	Good morning , doctor . I have a terrible headache .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+18	x	x	x	x	x	x	x	Good morning , doctor . I have a terrible headache .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+18	x	x	x	x	x	x	x	Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+18	x	x	x	x	x	x	x	Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	Good morning . What's the matter with you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	All right , young man . Tell me how it got started .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+20	x	x	x	x	x	x	x	My dear , what's for supper ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+20	x	x	x	x	x	x	x	What about soup ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+20	x	x	x	x	x	x	x	What kind of soup would you like to see ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+21	x	x	x	x	x	x	x	My dear , what's for supper ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+21	x	x	x	x	x	x	x	What about soup ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+21	x	x	x	x	x	x	x	Which condiment do you use for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+21	x	x	x	x	x	x	x	Which condiment do you use for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	Red cooked carp and rape with fresh mushrooms .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	Sour-peppery soup .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	I'll use ginger , garlic scallion , hot pepper and vinegar .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	I'll use ginger , garlic scallion , hot pepper and vinegar .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	My dear , what's for supper ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	What about soup ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	Which condiment do you use for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	Very good , need I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	Very good , need I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	Red cooked carp and rape with fresh mushrooms .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	Sour-peppery soup .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	I'll use ginger , garlic scallion , hot pepper and vinegar .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	No , don't need , I can do myself .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	No , don't need , I can do myself .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	Hello , this is Mike , Kara .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	Everything is fine , and how are you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	Everything is fine , and how are you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+26	x	x	x	x	x	x	x	Yes , I have booked a room for 24th . It's a double room .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+26	x	x	x	x	x	x	x	Yes , I have booked a room for 24th . It's a double room .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+27	x	x	x	x	x	x	x	Are you busy tomorrow morning ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+27	x	x	x	x	x	x	x	Someone has to pick up the boss at the airport .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+27	x	x	x	x	x	x	x	Someone has to pick up the boss at the airport .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+28	x	x	x	x	x	x	x	Do you have the ' The man and the Sea ' by Ernest Hemingway ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+28	x	x	x	x	x	x	x	Do you have the ' The man and the Sea ' by Ernest Hemingway ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+29	x	x	x	x	x	x	x	Do you have maps of downtown area ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+29	x	x	x	x	x	x	x	How much is it ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+29	x	x	x	x	x	x	x	Thanks so much .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+30	x	x	x	x	x	x	x	No problem at all . Could I have your full name , please ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+30	x	x	x	x	x	x	x	No problem at all . Could I have your full name , please ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+31	x	x	x	x	x	x	x	Could I have my bill , please ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+31	x	x	x	x	x	x	x	I'm afraid there's been a mistake .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+31	x	x	x	x	x	x	x	I'm afraid there has been a mistake .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+32	x	x	x	x	x	x	x	Certainly , sir .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+32	x	x	x	x	x	x	x	I'm sorry , sir . What seems to be the trouble ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+32	x	x	x	x	x	x	x	I'm sorry , sir . What seems to be the trouble ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+33	x	x	x	x	x	x	x	Good evening , madam . Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+33	x	x	x	x	x	x	x	Anything wrong with it ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+33	x	x	x	x	x	x	x	Anything wrong with it ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+34	x	x	x	x	x	x	x	Good evening , madam . Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+34	x	x	x	x	x	x	x	Anything wrong with it ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+34	x	x	x	x	x	x	x	Oh , how awful ! May I have a look at the invoice ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+34	x	x	x	x	x	x	x	Oh , how awful . May I have a look at the invoice ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Good evening , madam . Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Anything wrong with it ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Oh , how awful ! May I have a look at the invoice ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	I need to buy some flowers for my wife .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	What would the roses cost me ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	What would the roses cost me ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+37	x	x	x	x	x	x	x	Perhaps you'd be interested in red roses .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+37	x	x	x	x	x	x	x	They're only $ 20 a dozen .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+37	x	x	x	x	x	x	x	They're only $ 20 a dozen .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+38	x	x	x	x	x	x	x	Yes , I am afraid there are not enough outlets .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+38	x	x	x	x	x	x	x	Yes , I am afraid there are not enough outlets .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+39	x	x	x	x	x	x	x	Yes , I am afraid there are not enough outlets .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+39	x	x	x	x	x	x	x	Yes , but 4 of them are broken . Can you send someone here ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+39	x	x	x	x	x	x	x	Yes , but 4 of them are broken . Can you send someone here ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+40	x	x	x	x	x	x	x	Are you aware that you drove through a red light ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+40	x	x	x	x	x	x	x	Are you aware that you drove through a red light ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+41	x	x	x	x	x	x	x	Are you aware that you drove through a red light ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+41	x	x	x	x	x	x	x	Yes , you did .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+41	x	x	x	x	x	x	x	Weren't you taught that yellow means slow down , not speed up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+41	x	x	x	x	x	x	x	Weren't you taught that yellow means slow down , not speed up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	Are you aware that you drove through a red light ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	Yes , you did .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	Weren't you taught that yellow means slow down , not speed up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	So , then why did you speed up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	So , then why did you speed up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	Can I have the roll of film developed here ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	Here is the film . Can I get my pictures tomorrow ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	Here is the film . Can I get my pictures tomorrow ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+44	x	x	x	x	x	x	x	Tell me a little bit about yourself , please .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+44	x	x	x	x	x	x	x	Would you tell me something about your family ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+44	x	x	x	x	x	x	x	Would you tell me something about your family ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+45	x	x	x	x	x	x	x	I really need to start eating healthier .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+45	x	x	x	x	x	x	x	What kind of food do you usually eat ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+45	x	x	x	x	x	x	x	What kind of food do you usually eat ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+46	x	x	x	x	x	x	x	I really need to start eating healthier .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+46	x	x	x	x	x	x	x	What kind of food do you usually eat ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+46	x	x	x	x	x	x	x	Is that really all that you eat ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+46	x	x	x	x	x	x	x	Is that really all that you eat ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+47	x	x	x	x	x	x	x	Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+47	x	x	x	x	x	x	x	Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	Good afternoon ! Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	This way , please . Here they are . They're all handmade .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	Of course . The fitting room is right over there .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	l'm sorry . All the black of that size are sold out . Would you like a red one ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	l'm sorry . All the black of that size are sold out . Would you like a red one ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	How are you today ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+50	x	x	x	x	x	x	x	Great , thanks .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+50	x	x	x	x	x	x	x	I would actually like to view the apartment for rent today .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+50	x	x	x	x	x	x	x	I would actually like to view the apartment for rent now .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	How are you today ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	Can I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	I ’ m sorry , but you won ’ t be able to view it today .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	I ’ m sorry , but you won ’ t be able to view it today .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+52	x	x	x	x	x	x	x	Yes , I want to send a registered airmail letter to France .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+52	x	x	x	x	x	x	x	Yes , I want to send a registered airmail letter to France .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+53	x	x	x	x	x	x	x	we really were lucky . We got the last available table for two---and we didn't even have a reservation ! Did you see the long lines behind us ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+53	x	x	x	x	x	x	x	let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+53	x	x	x	x	x	x	x	let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+54	x	x	x	x	x	x	x	yeah , I'm glad that we didn't have to wait long . I'm starving !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+54	x	x	x	x	x	x	x	what would you rather have , samosas or poppadoms ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+54	x	x	x	x	x	x	x	what would you rather have , samosas or poppadoms ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	yeah , I'm glad that we didn't have to wait long . I'm starving !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	what would you rather have , samosas or poppadoms ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	well , let's get a plate of those then .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	Well , let's get a plate of those then .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	pompous . How may I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	How large a group are you expecting ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	Would you like to reserve a private dining room ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	Would you like to reserve a private dining room ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+57	x	x	x	x	x	x	x	Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+57	x	x	x	x	x	x	x	Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+57	x	x	x	x	x	x	x	Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+58	x	x	x	x	x	x	x	Where have you been ? I've been trying to get in touch with you for two days .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+58	x	x	x	x	x	x	x	Where have you been ? I've been trying to get in touch with you for two hours .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+59	x	x	x	x	x	x	x	Hi , Dan . What's new ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+59	x	x	x	x	x	x	x	I went to Salt Lake City on business . What's up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+59	x	x	x	x	x	x	x	I went to Salt Lake City on business . What's up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+60	x	x	x	x	x	x	x	I've never gotten one . Have you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+60	x	x	x	x	x	x	x	I've never gotten one . Have you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+61	x	x	x	x	x	x	x	Have you ever gotten a parking ticket ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+61	x	x	x	x	x	x	x	I got a ticket yesterday .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+61	x	x	x	x	x	x	x	I got a ticket yesterday .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+62	x	x	x	x	x	x	x	I've never gotten one . Have you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+62	x	x	x	x	x	x	x	Really ? What did you get one for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+62	x	x	x	x	x	x	x	Really ? What did you get one for ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+63	x	x	x	x	x	x	x	How may I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+63	x	x	x	x	x	x	x	What problem are you having ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+63	x	x	x	x	x	x	x	What problem are you having ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+64	x	x	x	x	x	x	x	I ’ m having a problem .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+64	x	x	x	x	x	x	x	There have been charges made on my debit card that I didn ’ t make .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+64	x	x	x	x	x	x	x	There have been charges made on my debit card that I didn ’ t make .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	How may I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	What problem are you having ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	Do you have the statement for your card ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	Do you have the card ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	I don't know . Can I purchase Treasury Certificates here at this counter ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	Two years is fine , with a value of 1,000 RIB .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	Here you go . By the way , is it possible to cash them before the maturity comes up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	Here you go . By the way , is it possible to cash them before the maturity comes up ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	Hey . Why did you take that money ? You are such a cheater ! I should send you to jail !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+68	x	x	x	x	x	x	x	I am not cheating . When you pass go , you collect $ 200 , Everyone knows that !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+68	x	x	x	x	x	x	x	Banker ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+68	x	x	x	x	x	x	x	Banker ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	I am not cheating . When you pass go , you collect $ 200 , Everyone knows that !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	Banker ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	Can I have my $ 200 please ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	Can I have my $ 200 please ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	Hi , is this Professor Clark ’ s office ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	Hi , this is Kalina from your morning literature class .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	I had a skydiving accident over the weekend and won ’ t be able to come to school today .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	I had a skydiving accident over the weekend and won ’ t be able to come to now .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	This is Professor Clark speaking .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	Yes , what can I do for you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	My goodness ! Are you OK ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	How long will you be out of class ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	how long will you be out of class ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	Hi , is this Professor Clark ’ s office ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	Hi , this is Kalina from your morning literature class .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I had a skydiving accident over the weekend and won ’ t be able to come to school today .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I broke my leg , but it is healing .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I should be able to return by next Monday .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I should be able to return by next Monday .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	I'm glad to help you . What's wrong ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	I'm glad to help you . What's wrong ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+74	x	x	x	x	x	x	x	Listen , Karen , I need your help . I don't know anyone here yet .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+74	x	x	x	x	x	x	x	My mother-in-law just went into the hospital in L.A.Hank and I will be flying there tonight .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+74	x	x	x	x	x	x	x	My mother-in-law just went into the hospital in L.A.Hank and I will be flying there today .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+75	x	x	x	x	x	x	x	I'd like a beer . What kind of beer do you have ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+75	x	x	x	x	x	x	x	I'd like a beer . What kind of beer do you have ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+76	x	x	x	x	x	x	x	Good evening . What'll you have ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+76	x	x	x	x	x	x	x	Draft beer and cans beer . Which do you prefer ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+76	x	x	x	x	x	x	x	Draft beer and cans beer . Which do you prefer ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+77	x	x	x	x	x	x	x	Hello , Mr . Black , how are you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+77	x	x	x	x	x	x	x	Very well , thank you . It's nice to meet you again . I am awfully sorry for not being able to meet you at the airport , as I was busy yesterday . I do hope you had a very enjoyable trip from New York .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+77	x	x	x	x	x	x	x	How are you getting along with your business ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+77	x	x	x	x	x	x	x	How are you getting along with your business going ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+78	x	x	x	x	x	x	x	Toilets are in the rear , I am afraid all the toilets are fully occupied at the moment .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+78	x	x	x	x	x	x	x	Toilets are in the rear , I am afraid all the toilets are fully occupied at the moment .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+79	x	x	x	x	x	x	x	you can buy the bubble wrap here , but you ’ ll have to stand in line over here to post your passage .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+79	x	x	x	x	x	x	x	it takes about 3 minutes per person , so it ’ ll probably be about an hour ’ s wait .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+79	x	x	x	x	x	x	x	it takes about 3 minutes per person , so it ’ ll probably be about an hour ’ s wait .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+80	x	x	x	x	x	x	x	I am cooking now !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+80	x	x	x	x	x	x	x	I am cooking now !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+81	x	x	x	x	x	x	x	I am cooking now !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+81	x	x	x	x	x	x	x	I have studied its skills recently at a training school . I plan to run a restaurant , so I have to practise cooking !	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+81	x	x	x	x	x	x	x	I am steaming fish in a pressure cooker . Have you ever tried steamed fish ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+81	x	x	x	x	x	x	x	I am steaming fish in a pressure cooker . Have you ever tried steamed fish ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	Room service.What can I do for you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+83	x	x	x	x	x	x	x	Room service.What can I do for you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+83	x	x	x	x	x	x	x	Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+83	x	x	x	x	x	x	x	Sir , we are terribly sorry for that.We will refund the charge and send your laundry to your room 3 hours later . Is that all right ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+83	x	x	x	x	x	x	x	Sir , we are terribly sorry for that.We will send your laundry to your room 3 hours later . Is that all right ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+84	x	x	x	x	x	x	x	Excuse me , may I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+84	x	x	x	x	x	x	x	Sure . Which kind of gas do you want ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+84	x	x	x	x	x	x	x	Sure . Which kind of gas do you want ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+85	x	x	x	x	x	x	x	I haven't seen her yet .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+85	x	x	x	x	x	x	x	I haven't seen her yet .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+86	x	x	x	x	x	x	x	I haven't seen her yet .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+86	x	x	x	x	x	x	x	Tell me how she looks .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+86	x	x	x	x	x	x	x	Tell me how she looks .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	I haven't seen her yet .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	Tell me how she looks .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	What height is she ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	What height is she ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	Yes , and I want to buy the insurance too . I think it's necessary .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	Can I return the car in San Francisco ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	Can I return the car in San Francisco ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+89	x	x	x	x	x	x	x	Speaking of seafood , my mouth is watering . Let's go to the seafood restaurant in our neighborhood .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+89	x	x	x	x	x	x	x	Speaking of seafood , my mouth is watering . Let's go to the seafood restaurant in our neighborhood .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+90	x	x	x	x	x	x	x	I'm going to the hospital .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+90	x	x	x	x	x	x	x	About how much will it cost ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+90	x	x	x	x	x	x	x	About how much will it will cost ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	I'm going to the hospital .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	About how much will it cost ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	By the way , what's the time ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	It's a quarter to 12 . Could you please drive a little faster ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	It's a quarter to 12 . Could you please drive a little faster ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	Where was it from ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	Where was it from ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+93	x	x	x	x	x	x	x	Where was it from ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+93	x	x	x	x	x	x	x	Jingdezhen ? Isn't it called ' the capital of porcelain ' ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+93	x	x	x	x	x	x	x	Jingdezhen ? Isn't it called ' the capital of porcelain ' ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+94	x	x	x	x	x	x	x	Hello , Miao Li , Where are you going ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+94	x	x	x	x	x	x	x	Oh , Would you do me a favor ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+94	x	x	x	x	x	x	x	Oh , Would you do me a favor ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+95	x	x	x	x	x	x	x	What dressing would you like on the salad ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+95	x	x	x	x	x	x	x	I beg your pardon ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+95	x	x	x	x	x	x	x	Sorry , it's not available now.Anything else ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+95	x	x	x	x	x	x	x	Sorry , it's not available now . Anything else ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+96	x	x	x	x	x	x	x	Certainly . And what vegetables would you like ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+96	x	x	x	x	x	x	x	Fine , And what about something to drink ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+96	x	x	x	x	x	x	x	Fine , And what about something to drink ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Could I have some fish ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Oh , spinach , I think .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Just a beer , please .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Would you like to have some more beer ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Would you like to have some more beer ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	I'm sorry , our appointment has to be changed .	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	If you don't mind , may we put it off to the next day ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	If you don't mind , may we put it off to the next day ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	May I help you ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	Are you interested in the natural landscape or the human landscape ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	Are you interested in the natural landscape or the human landscape ?	YOUR SCORE:	neutral	neutral	neutral	neutral	neutral	neutral

@@ -1,9 +1,9 @@
-
 from pytorch_pretrained_bert import GPT2LMHeadModel, GPT2Tokenizer
 import torch
 import numpy as np
 import pandas as pd
 import argparse
+from roberta_mnli.logic_eval_interface import logic_eval
 
 def fluency_score(rated_a, opt):
 
@@ -119,14 +119,21 @@ def diversity_score(cands, ngram):
 
     return np.array(score_list)
 
+
+def logic_consistency(sentences_pre, sentences):
+
+    score_list = logic_eval(sentences_pre, sentences)
+
+    return np.array(score_list)
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--pretrained-model-path', default='gpt2', help='model path of pretrained gpt2 finetuned on dataset')
     parser.add_argument('--metric', default='diversity', help='context | fluency | diversity | logic_consistency')
-    parser.add_argument('--file-path', default='test.csv', help='.csv file')
-
+    parser.add_argument('--file-path', default='test.csv', help='input .csv file')
+    parser.add_argument('--output-file-path', default='test_output.csv', help='output .csv file')
     parser.add_argument('--ngram', default=2,
                         help='ngram to be used, for diversity eval')
 
@@ -164,11 +171,12 @@ if __name__ == '__main__':
         score_list = diversity_score(sentences, opt.ngram)
 
     elif opt.metric == 'logic_consistency':
-        pass
-
+        history = df[1].to_list()
+        sentences = df[2].to_list()
+        score_list = logic_consistency(history, sentences)
     else:
         raise ValueError("Score: context | fluency | diversity | logic_consistency")
 
 
     df[3] = pd.Series(score_list)
-    df.to_csv(opt.file_path)
+    df.to_csv(opt.output_file_path)

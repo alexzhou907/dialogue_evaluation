@@ -1,0 +1,558 @@
+labeled: 0 contradiction	0.6512	
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Some what ?
+	gold: Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+	pred: i don't know what you are talking about.
+2
+labeled: 0 contradiction	0.9966
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+	gold: Oh , umm , no thanks .
+	pred: yeah, that's right, i know all about dope!
+1
+labeled: 0 contradiction	0.9063
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 I also have blow if you prefer to do a part-time job .
+	gold: No , I am ok , really .
+	pred: ha, that's nice. what kind of work do you do?
+1
+labeled: 1 neutral	0.3263
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 Come on man ! I even got dope and acid ! Try some ! 
+		 No , I am ok , really .
+	gold: Come on man ! I even got dope and acid ! Try some !
+	pred: i'm sure you'll be fine.
+3
+labeled: 1 neutral	0.2962
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 Come on man ! I even got dope and acid ! Try some ! 
+		 Do you really have all of these drugs ? Where do you get them from ? 
+		 Come on man ! I also got dope and acid ! Try some !
+	gold: Do you really have all of these drugs ? Where do you get them from ?
+	pred: i'm not a dope addict but i'm a dope fiend.
+2
+labeled: 0 neutral	0.0018
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 Come on man ! I even got dope and acid ! Try some ! 
+		 Do you really have all of these drugs ? Where do you get them from ? 
+		 I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free . 
+		 Do you really have all of their drugs ? Where do you get them from ?
+	gold: I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .
+	pred: i get them from the club i work at
+3
+labeled: 0 contradiction	0.6570
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 Come on man ! I even got dope and acid ! Try some ! 
+		 Do you really have all of these drugs ? Where do you get them from ? 
+		 I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free . 
+		 Sounds good ! Let ’ s see , I want . 
+		 I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .
+	gold: Sounds good ! Let ’ s see , I want .
+	pred: i'm so crazy i don't know!!!
+4
+labeled: 1 neutral	0.1754
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 Come on man ! I even got dope and acid ! Try some ! 
+		 Do you really have all of these drugs ? Where do you get them from ? 
+		 I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free . 
+		 Sounds good ! Let ’ s see , I want . 
+		 Yeah ? 
+		 I got my connections ! Just tell me what you want and I ’ will even give you one ounce for free .
+	gold: Yeah ?
+	pred: ok... what do you do?
+4
+labeled: 0 contradiction	0.6951
+	history: Hey man , you wanna buy some weed ? 
+		 Some what ? 
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic ! 
+		 Oh , umm , no thanks . 
+		 I also have blow if you prefer to do a few lines . 
+		 No , I am ok , really . 
+		 Come on man ! I even got dope and acid ! Try some ! 
+		 Do you really have all of these drugs ? Where do you get them from ? 
+		 I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free . 
+		 Sounds good ! Let ’ s see , I want . 
+		 Yeah ? 
+		 I want you to put your hands behind your head ! You are under arrest ! 
+		 I got my connections ! Just tell me what you want and I ’ will even give you one ounce for free .
+	gold: I want you to put your hands behind your head ! You are under arrest !
+	pred: i want to buy some weed, but i am a guy who doesn't like weed.
+1
+labeled: 1 neutral	0.0179
+	history: The taxi drivers are on strike again . 
+		 What for ? 
+		 They want the government to reduce the price of the gasoline . 
+		 What for ?
+	gold: They want the government to reduce the price of the gasoline .
+	pred: that's what they want to do to the cars.
+2
+labeled: 0 contradiction	0.9489
+	history: The taxi drivers are on strike again . 
+		 What for ? 
+		 They want the government to reduce the price of the gasoline . 
+		 It is really a hot potato . 
+		 They want the government to reduce the price of the gasoline .
+	gold: It is really a hot potato .
+	pred: that is great. i hope you are safe.
+4
+labeled: 1 neutral	0.0006
+	history: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years . 
+		 That's excellent . How have you managed that ? 
+		 Mainly because we've invested in a heat recovery system . 
+		 That's excellent . How have you managed that ?
+	gold: Mainly because we've invested in a heat recovery system .
+	pred: we have been able to reduce energy in our factory.
+4
+labeled: 1 neutral	0.0009
+	history: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years . 
+		 That's excellent . How have you managed that ? 
+		 Mainly because we've invested in a heat recovery system . 
+		 What does that mean exactly ? 
+		 Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers . 
+		 What does that mean exactly ?
+	gold: Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .
+	pred: it means that we can save a ton of energy.
+4
+labeled: 1 neutral	0.0008
+	history: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years . 
+		 That's excellent . How have you managed that ? 
+		 Mainly because we've invested in a heat recovery system . 
+		 What does that mean exactly ? 
+		 Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers . 
+		 What other sources of energy do you use ? 
+		 We don't use any fossil fuels . Most of our power comes from hydro-electric plants . We're hoping to use even more energy from alternative sources in the future - perhaps even wind power . 
+		 What other sources of energy do you use ?
+	gold: We don't use any fossil fuels . Most of our power comes from hydro-electric plants . We're hoping to use even more energy from alternative sources in the future - perhaps even wind power .
+	pred: well, the electricity i use is the one that i want to use for my factory.
+4
+labeled: 1 neutral	0.0022
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Well , people from Asia to Europe all enjoy music .
+	gold: Right . And China is the homeland of tea .
+	pred: tea is my favorite drink.
+5
+labeled: 1 neutral	0.0167
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Right . And China is the homeland of music .
+	gold: Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+	pred: i understand. tea is the best.
+5
+labeled: 1 neutral	0.0021
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Do you know there are several catagories of Chinese tea ? 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+	gold: Do you know there are several catagories of Chinese tea ?
+	pred: i think tea is the best.
+4
+labeled: 1 entailment	0.0024
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Do you know there are several catagories of Chinese tea ? 
+		 Yes , I believe there are green teas , black teas and scented teas . Any Others ? 
+		 Do you know there are several catagories of Chinese tea ?
+	gold: Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+	pred: yes, there are many.
+5
+labeled: 1 neutral	0.0145
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Do you know there are several catagories of Chinese tea ? 
+		 Yes , I believe there are green teas , black teas and scented teas . Any Others ? 
+		 Well , have you ever heard of Oulong tea and compressed tea ? 
+		 Yeah , I believe there are green teas , black teas and scented teas . Any Others ?
+	gold: Well , have you ever heard of Oulong tea and compressed tea ?
+	pred: i have not heard of them, but it is a great drink.
+3
+labeled: 0 contradiction	0.8294
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Do you know there are several catagories of Chinese tea ? 
+		 Yes , I believe there are green teas , black teas and scented teas . Any Others ? 
+		 Well , have you ever heard of Oulong tea and compressed tea ? 
+		 Oh , yeah . Oulong tea is good for one's health . isn't it ? 
+		 Well , have you heard of Oulong tea and compressed tea ?
+	gold: Oh , yeah . Oulong tea is good for one's health . isn't it ?
+	pred: no. i guess that is just a drink i drink.
+3
+labeled: 1 neutral	0.0024
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Do you know there are several catagories of Chinese tea ? 
+		 Yes , I believe there are green teas , black teas and scented teas . Any Others ? 
+		 Well , have you ever heard of Oulong tea and compressed tea ? 
+		 Oh , yeah . Oulong tea is good for one's health . isn't it ? 
+		 You surely know a lot about Chinese tea . 
+		 Well , have you ever heard of Oulong tea and compressed tea ?
+	gold: You surely know a lot about Chinese tea .
+	pred: yes, i have. it is a great drink.
+4
+labeled: 2 contradiction	0.9476
+	history: Believe it or not , tea is the most popular beverage in the world after water . 
+		 Well , people from Asia to Europe all enjoy tea . 
+		 Right . And China is the homeland of tea . 
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea . 
+		 Do you know there are several catagories of Chinese tea ? 
+		 Yes , I believe there are green teas , black teas and scented teas . Any Others ? 
+		 Well , have you ever heard of Oulong tea and compressed tea ? 
+		 Oh , yeah . Oulong tea is good for one's health . isn't it ? 
+		 You surely know a lot about Chinese tea . 
+		 Sure , I like drinking tea at teahouses . 
+		 Oh , so do I . 
+		 Why don't we go for one now ? 
+		 Great . We can chat while enjoying a cup there . 
+		 Uh , yes , I agree with you . But this year I don't like autumn either . Have you ever heard of Oulong tea and anywhere ?
+	gold: Great . We can chat while enjoying a cup there .
+	pred: i've not. have you?
+1
+labeled: 0 contradiction	0.9509
+	history: What are your personal weaknesses ? 
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking . 
+		 Are you more of a leader or a follower ? 
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying hard for the first time .
+	gold: Are you more of a leader or a follower ?
+	pred: what do you do for fun?
+3
+labeled: 0 contradiction	0.9023
+	history: What are your personal weaknesses ? 
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking . 
+		 Are you more of a leader or a follower ? 
+		 I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together . 
+		 Are you more of a follower or a leader ?
+	gold: I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+	pred: i like to keep to myself. i'm a person who does not want to be a follower
+1
+labeled: 1 entailment	0.0016
+	history: What are your personal weaknesses ? 
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking . 
+		 Are you more of a leader or a follower ? 
+		 I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together . 
+		 Do you think you can make yourself easily understood in English ? 
+		 Yes , in most circumstances . 
+		 Do you think you can make yourself easily understood in advance ?
+	gold: Yes , in most circumstances .
+	pred: i think so.
+5
+labeled: 1 neutral	0.0154
+	history: What are your personal weaknesses ? 
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking . 
+		 Are you more of a leader or a follower ? 
+		 I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together . 
+		 Do you think you can make yourself easily understood in English ? 
+		 Yes , in most circumstances . 
+		 Are you available for travel ? 
+		 Yes , I like travelling . I am young , and unmarried . It ’ s no problem for me to travel frequently . 
+		 Do you think you can make yourself easily understood in English ?
+	gold: Yes , I like travelling . I am young , and unmarried . It ’ s no problem for me to travel frequently .
+	pred: yes, i know it is hard for me to be understood, but i can try.
+2
+labeled: 2 contradiction	0.7165
+	history: how long will it take us to drive to London ? 
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway . 
+		 that ’ s unless there is a traffic jam . It could take three hours . 
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+	gold: that ’ s unless there is a traffic jam . It could take three hours .
+	pred: i agree, i want to go now.
+3
+labeled: 1 neutral	0.0729
+	history: how long will it take us to drive to London ? 
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway . 
+		 that ’ s unless there is a traffic jam . It could take three hours . 
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas . 
+		 that ’ s unless there is a traffic accident .
+	gold: you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+	pred: i understand that. do you have any hobbies?
+4
+labeled: 0 contradiction	0.6465
+	history: how long will it take us to drive to London ? 
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway . 
+		 that ’ s unless there is a traffic jam . It could take three hours . 
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas . 
+		 so , shall we allow three hours to cover the distance ? 
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+	gold: so , shall we allow three hours to cover the distance ?
+	pred: agreed! what else do you like to do?
+4
+labeled: 1 neutral	0.0057
+	history: how long will it take us to drive to London ? 
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway . 
+		 that ’ s unless there is a traffic jam . It could take three hours . 
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas . 
+		 so , shall we allow three hours to cover the distance ? 
+		 ok . You haven ’ t seen my company car , have you ? 
+		 so , shall we allow three hours to cover the distance ?
+	gold: ok . You haven ’ t seen my company car , have you ?
+	pred: ok. i'm looking forward to it. i've a huge car that will be a
+5
+labeled: 0 contradiction	0.9919
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Do you want the truth ?
+	gold: Of course , I do .
+	pred: i don't know.
+1
+labeled: 1 neutral	0.0095
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 Of course , I do .
+	gold: Well , you really didn't do all that well .
+	pred: well, i am sorry.
+2
+labeled: 0 contradiction	0.8659
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 Well , you really didn't do all that good .
+	gold: How bad did I do ?
+	pred: that is good. i did it well, though.
+1
+labeled: 1 neutral	0.0031
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How bad did I do ?
+	gold: To be completely honest , you failed your test .
+	pred: you didn't do well, but you'll be okay.
+3
+labeled: 1 neutral	0.2420
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How ? 
+		 To be completely honest , you failed your answers .
+	gold: How ?
+	pred: that's not a good way to start.
+3
+labeled: 3 neutral	0.0681
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How ? 
+		 There were a number of reasons . 
+		 how ?
+	gold: There were a number of reasons .
+	pred: you were an actor.
+3
+labeled: 3 neutral	0.0375
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How ? 
+		 There were a number of reasons . 
+		 What were they ? 
+		 There were a number of reasons .
+	gold: What were they ?
+	pred: and you were not very good at them.
+3
+labeled: 0 contradiction	0.9991
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How ? 
+		 There were a number of reasons . 
+		 What were they ? 
+		 Basically , you just can't drive . 
+		 What were they ?
+	gold: Basically , you just can't drive .
+	pred: well, you just have to drive.
+1
+labeled: 0 contradiction	0.6595
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How ? 
+		 There were a number of reasons . 
+		 What were they ? 
+		 Basically , you just can't drive . 
+		 Can I have another try ? 
+		 Basically , you just can't drive .
+	gold: Can I have another try ?
+	pred: that's true, i guess.
+3
+labeled: 1 entailment	0.0250
+	history: So how did I do on my driving test ? 
+		 Do you want the truth ? 
+		 Of course , I do . 
+		 Well , you really didn't do all that well . 
+		 How bad did I do ? 
+		 To be completely honest , you failed your test . 
+		 How ? 
+		 There were a number of reasons . 
+		 What were they ? 
+		 Basically , you just can't drive . 
+		 Can I have another try ? 
+		 You can take it in a couple weeks . 
+		 Can I have another try ?
+	gold: You can take it in a couple weeks .
+	pred: sure.
+5
+labeled: 1 neutral	0.1549
+	history: Good morning . What's the matter with you ? 
+		 Good morning , doctor . I have a terrible headache . 
+		 All right , young man . Tell me how it got started . 
+		 Good morning , doctor . I have a terrible headache .
+	gold: All right , young man . Tell me how it got started .
+	pred: i'm sorry to hear that. tell me about it.
+5
+labeled: 0 contradiction	0.9935
+	history: Good morning . What's the matter with you ? 
+		 Good morning , doctor . I have a terrible headache . 
+		 All right , young man . Tell me how it got started . 
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible . 
+		 All right , young man . Tell me how it got started .
+	gold: Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+	pred: it was not bad. i just had a headache. i need to take a nap.
+4
+labeled: 3 neutral	0.0074
+	history: Good morning . What's the matter with you ? 
+		 Good morning , doctor . I have a terrible headache . 
+		 All right , young man . Tell me how it got started . 
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible . 
+		 Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' . 
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+	gold: Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+	pred: i have a terrible headache, but i'm sure it will pass.
+2
+labeled: 1 neutral	0.0030
+	history: Good morning . What's the matter with you ? 
+		 Good morning , doctor . I have a terrible headache . 
+		 All right , young man . Tell me how it got started . 
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible . 
+		 Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' . 
+		 Ah . 
+		 Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+	gold: Ah .
+	pred: okay, i will do that. i am sure it will be better by morning.
+5
+labeled: 0 neutral	0.3216
+	history: My dear , what's for supper ? 
+		 Red cooked carp and rape with fresh mushrooms . 
+		 What about soup ? 
+		 Sour-peppery soup . 
+		 What kind of soup would you like to see ?
+	gold: Sour-peppery soup .
+	pred: anything with mushrooms in it.
+4
+labeled: 0 contradiction	0.8140
+	history: My dear , what's for supper ? 
+		 Red cooked carp and rape with fresh mushrooms . 
+		 What about soup ? 
+		 Sour-peppery soup . 
+		 Which condiment do you use for ? 
+		 I'll use ginger , garlic scallion , hot pepper and vinegar . 
+		 Which condiment do you use for ?
+	gold: I'll use ginger , garlic scallion , hot pepper and vinegar .
+	pred: the rosemary. i don't use mushrooms, but i do use pepper.
+4
+labeled: 0 contradiction	0.5223
+	history: My dear , what's for supper ? 
+		 Red cooked carp and rape with fresh mushrooms . 
+		 What about soup ? 
+		 Sour-peppery soup . 
+		 Which condiment do you use for ? 
+		 I'll use ginger , garlic scallion , hot pepper and vinegar . 
+		 Very good , need I help you ? 
+		 I'll use ginger , garlic scallion , hot pepper and vinegar .
+	gold: Very good , need I help you ?
+	pred: do you like to cook?
+4
+labeled: 0 contradiction	0.5387
+	history: My dear , what's for supper ? 
+		 Red cooked carp and rape with fresh mushrooms . 
+		 What about soup ? 
+		 Sour-peppery soup . 
+		 Which condiment do you use for ? 
+		 I'll use ginger , garlic scallion , hot pepper and vinegar . 
+		 Very good , need I help you ? 
+		 No , don't need , I can do myself . 
+		 Very good , need I help you ?
+	gold: No , don't need , I can do myself .
+	pred: help you clean up?
+2
+labeled: 0 contradiction	0.9774
+	history: My dear , what's for supper ? 
+		 Red cooked carp and rape with fresh mushrooms . 
+		 What about soup ? 
+		 Sour-peppery soup . 
+		 Which condiment do you use for ? 
+		 I'll use ginger , garlic scallion , hot pepper and vinegar . 
+		 Very good , need I help you ? 
+		 No , don't need , I can do myself . 
+		 Thanks . I can watch TV now . 
+		 No , don't need , I can do myself .
+	gold: Thanks . I can watch TV now .
+	pred: i've a couch. i can sleep on it.
+2

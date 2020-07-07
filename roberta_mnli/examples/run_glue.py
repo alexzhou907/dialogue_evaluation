@@ -257,7 +257,7 @@ def evaluate(args, model, tokenizer, prefix=""):
             preds = np.squeeze(preds)
         if args.print_result:
             mode = args.data_dir.split('/')[-1]
-            with open('self_logic/MNLI_SCORE/data/{}/{}.pred'.format(mode,eval_task), 'w', encoding='utf8') as f:
+            with open('roberta_mnli/self_logic/MNLI_SCORE/data/{}/{}_{}.pred'.format(mode,eval_task,mode), 'w', encoding='utf8') as f:  
                 for j, r in enumerate(preds):
                     if r == 0:
                         f.write('contradiction')
