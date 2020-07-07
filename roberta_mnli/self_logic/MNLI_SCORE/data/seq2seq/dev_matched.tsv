@@ -1,0 +1,282 @@
+index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	sentence1_parse	sentence2_parse	sentence1	sentence2	label1	label2	label3	label4	label5	gold_label
+1	x	x	x	x	x	x	x	Hey man , you wanna buy some weed ?	i don't know what you are talking about.	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	Weed ! You know ? Pot , Ganja , Mary Jane some chronic !	i don't know what you are talking about.	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Hey man , you wanna buy some weed ?	i'm sure you'll be fine.	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Weed ! You know ? Pot , Ganja , Mary Jane some chronic !	i'm sure you'll be fine.	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	I also have blow if you prefer to do a few lines .	i'm sure you'll be fine.	neutral	neutral	neutral	neutral	neutral	neutral
+2	x	x	x	x	x	x	x	Come on man ! I even got dope and acid ! Try some !	i'm sure you'll be fine.	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	Hey man , you wanna buy some weed ?	i get them from the club i work at	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	Weed ! You know ? Pot , Ganja , Mary Jane some chronic !	i get them from the club i work at	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	I also have blow if you prefer to do a few lines .	i get them from the club i work at	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	Come on man ! I even got dope and acid ! Try some !	i get them from the club i work at	neutral	neutral	neutral	neutral	neutral	neutral
+3	x	x	x	x	x	x	x	I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .	i get them from the club i work at	neutral	neutral	neutral	neutral	neutral	neutral
+4	x	x	x	x	x	x	x	The taxi drivers are on strike again .	that's what they want to do to the cars.	neutral	neutral	neutral	neutral	neutral	neutral
+4	x	x	x	x	x	x	x	They want the government to reduce the price of the gasoline .	that's what they want to do to the cars.	neutral	neutral	neutral	neutral	neutral	neutral
+5	x	x	x	x	x	x	x	What for ?	that is great. i hope you are safe.	neutral	neutral	neutral	neutral	neutral	neutral
+5	x	x	x	x	x	x	x	It is really a hot potato .	that is great. i hope you are safe.	neutral	neutral	neutral	neutral	neutral	neutral
+6	x	x	x	x	x	x	x	We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .	we have been able to reduce energy in our factory.	neutral	neutral	neutral	neutral	neutral	neutral
+6	x	x	x	x	x	x	x	Mainly because we've invested in a heat recovery system .	we have been able to reduce energy in our factory.	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .	it means that we can save a ton of energy.	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	Mainly because we've invested in a heat recovery system .	it means that we can save a ton of energy.	neutral	neutral	neutral	neutral	neutral	neutral
+7	x	x	x	x	x	x	x	Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .	it means that we can save a ton of energy.	neutral	neutral	neutral	neutral	neutral	neutral
+8	x	x	x	x	x	x	x	Well , people from Asia to Europe all enjoy tea .	yes, there are many.	neutral	neutral	neutral	neutral	neutral	neutral
+8	x	x	x	x	x	x	x	Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .	yes, there are many.	neutral	neutral	neutral	neutral	neutral	neutral
+8	x	x	x	x	x	x	x	Yes , I believe there are green teas , black teas and scented teas . Any Others ?	yes, there are many.	neutral	neutral	neutral	neutral	neutral	neutral
+9	x	x	x	x	x	x	x	I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .	i like to keep to myself. i'm a person who does not want to be a follower	neutral	neutral	neutral	neutral	neutral	neutral
+9	x	x	x	x	x	x	x	I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .	i like to keep to myself. i'm a person who does not want to be a follower	neutral	neutral	neutral	neutral	neutral	neutral
+10	x	x	x	x	x	x	x	I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .	i think so.	neutral	neutral	neutral	neutral	neutral	neutral
+10	x	x	x	x	x	x	x	I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .	i think so.	neutral	neutral	neutral	neutral	neutral	neutral
+10	x	x	x	x	x	x	x	Yes , in most circumstances .	i think so.	neutral	neutral	neutral	neutral	neutral	neutral
+11	x	x	x	x	x	x	x	how long will it take us to drive to London ?	i agree, i want to go now.	neutral	neutral	neutral	neutral	neutral	neutral
+11	x	x	x	x	x	x	x	that ’ s unless there is a traffic jam . It could take three hours .	i agree, i want to go now.	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	how long will it take us to drive to London ?	agreed! what else do you like to do?	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	that ’ s unless there is a traffic jam . It could take three hours .	agreed! what else do you like to do?	neutral	neutral	neutral	neutral	neutral	neutral
+12	x	x	x	x	x	x	x	so , shall we allow three hours to cover the distance ?	agreed! what else do you like to do?	neutral	neutral	neutral	neutral	neutral	neutral
+13	x	x	x	x	x	x	x	I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .	ok. i'm looking forward to it. i've a huge car that will be a	neutral	neutral	neutral	neutral	neutral	neutral
+13	x	x	x	x	x	x	x	you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .	ok. i'm looking forward to it. i've a huge car that will be a	neutral	neutral	neutral	neutral	neutral	neutral
+13	x	x	x	x	x	x	x	ok . You haven ’ t seen my company car , have you ?	ok. i'm looking forward to it. i've a huge car that will be a	neutral	neutral	neutral	neutral	neutral	neutral
+14	x	x	x	x	x	x	x	So how did I do on my driving test ?	i don't know.	neutral	neutral	neutral	neutral	neutral	neutral
+14	x	x	x	x	x	x	x	Of course , I do .	i don't know.	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	Do you want the truth ?	you didn't do well, but you'll be okay.	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	Well , you really didn't do all that well .	you didn't do well, but you'll be okay.	neutral	neutral	neutral	neutral	neutral	neutral
+15	x	x	x	x	x	x	x	To be completely honest , you failed your test .	you didn't do well, but you'll be okay.	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	Do you want the truth ?	well, you just have to drive.	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	Well , you really didn't do all that well .	well, you just have to drive.	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	To be completely honest , you failed your test .	well, you just have to drive.	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	There were a number of reasons .	well, you just have to drive.	neutral	neutral	neutral	neutral	neutral	neutral
+16	x	x	x	x	x	x	x	Basically , you just can't drive .	well, you just have to drive.	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	Do you want the truth ?	sure.	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	Well , you really didn't do all that well .	sure.	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	To be completely honest , you failed your test .	sure.	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	There were a number of reasons .	sure.	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	Basically , you just can't drive .	sure.	neutral	neutral	neutral	neutral	neutral	neutral
+17	x	x	x	x	x	x	x	You can take it in a couple weeks .	sure.	neutral	neutral	neutral	neutral	neutral	neutral
+18	x	x	x	x	x	x	x	Good morning . What's the matter with you ?	i'm sorry to hear that. tell me about it.	neutral	neutral	neutral	neutral	neutral	neutral
+18	x	x	x	x	x	x	x	All right , young man . Tell me how it got started .	i'm sorry to hear that. tell me about it.	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	Good morning . What's the matter with you ?	i have a terrible headache, but i'm sure it will pass.	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	All right , young man . Tell me how it got started .	i have a terrible headache, but i'm sure it will pass.	neutral	neutral	neutral	neutral	neutral	neutral
+19	x	x	x	x	x	x	x	Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .	i have a terrible headache, but i'm sure it will pass.	neutral	neutral	neutral	neutral	neutral	neutral
+20	x	x	x	x	x	x	x	Good morning , doctor . I have a terrible headache .	okay, i will do that. i am sure it will be better by morning.	neutral	neutral	neutral	neutral	neutral	neutral
+20	x	x	x	x	x	x	x	Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .	okay, i will do that. i am sure it will be better by morning.	neutral	neutral	neutral	neutral	neutral	neutral
+20	x	x	x	x	x	x	x	Ah .	okay, i will do that. i am sure it will be better by morning.	neutral	neutral	neutral	neutral	neutral	neutral
+21	x	x	x	x	x	x	x	Red cooked carp and rape with fresh mushrooms .	anything with mushrooms in it.	neutral	neutral	neutral	neutral	neutral	neutral
+21	x	x	x	x	x	x	x	Sour-peppery soup .	anything with mushrooms in it.	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	Red cooked carp and rape with fresh mushrooms .	the rosemary. i don't use mushrooms, but i do use pepper.	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	Sour-peppery soup .	the rosemary. i don't use mushrooms, but i do use pepper.	neutral	neutral	neutral	neutral	neutral	neutral
+22	x	x	x	x	x	x	x	I'll use ginger , garlic scallion , hot pepper and vinegar .	the rosemary. i don't use mushrooms, but i do use pepper.	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	My dear , what's for supper ?	do you like to cook?	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	What about soup ?	do you like to cook?	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	Which condiment do you use for ?	do you like to cook?	neutral	neutral	neutral	neutral	neutral	neutral
+23	x	x	x	x	x	x	x	Very good , need I help you ?	do you like to cook?	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	Red cooked carp and rape with fresh mushrooms .	help you clean up?	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	Sour-peppery soup .	help you clean up?	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	I'll use ginger , garlic scallion , hot pepper and vinegar .	help you clean up?	neutral	neutral	neutral	neutral	neutral	neutral
+24	x	x	x	x	x	x	x	No , don't need , I can do myself .	help you clean up?	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	My dear , what's for supper ?	i've a couch. i can sleep on it.	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	What about soup ?	i've a couch. i can sleep on it.	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	Which condiment do you use for ?	i've a couch. i can sleep on it.	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	Very good , need I help you ?	i've a couch. i can sleep on it.	neutral	neutral	neutral	neutral	neutral	neutral
+25	x	x	x	x	x	x	x	Thanks . I can watch TV now .	i've a couch. i can sleep on it.	neutral	neutral	neutral	neutral	neutral	neutral
+26	x	x	x	x	x	x	x	Mike ! Good to hear from you . How are you ?	good, just got off work.	neutral	neutral	neutral	neutral	neutral	neutral
+26	x	x	x	x	x	x	x	Things are going well with me .	good, just got off work.	neutral	neutral	neutral	neutral	neutral	neutral
+27	x	x	x	x	x	x	x	Sun-set hotel . May I help you ?	i'm sure you'll get it. i need a bed anyway.	neutral	neutral	neutral	neutral	neutral	neutral
+27	x	x	x	x	x	x	x	Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days .	i'm sure you'll get it. i need a bed anyway.	neutral	neutral	neutral	neutral	neutral	neutral
+28	x	x	x	x	x	x	x	I'm free . What's up ?	that's okay. i'm free. i'm just finishing up some paperwork.	neutral	neutral	neutral	neutral	neutral	neutral
+28	x	x	x	x	x	x	x	Oh , I just remembered I've got a report to write .	that's okay. i'm free. i'm just finishing up some paperwork.	neutral	neutral	neutral	neutral	neutral	neutral
+29	x	x	x	x	x	x	x	Nani Book Store . How can I help you ?	i do. i've a book that's about it.	neutral	neutral	neutral	neutral	neutral	neutral
+29	x	x	x	x	x	x	x	Yes , we have one copy left .	i do. i've a book that's about it.	neutral	neutral	neutral	neutral	neutral	neutral
+30	x	x	x	x	x	x	x	Yes , here you are .	it is nothing but a cheap ticket.	neutral	neutral	neutral	neutral	neutral	neutral
+30	x	x	x	x	x	x	x	It's free of charge .	it is nothing but a cheap ticket.	neutral	neutral	neutral	neutral	neutral	neutral
+31	x	x	x	x	x	x	x	Hi there , I want to reserve a hotel room .	sure, john sandals.	neutral	neutral	neutral	neutral	neutral	neutral
+31	x	x	x	x	x	x	x	Sure , John Sandals .	sure, john sandals.	neutral	neutral	neutral	neutral	neutral	neutral
+32	x	x	x	x	x	x	x	Certainly , sir .	what do you mean?	neutral	neutral	neutral	neutral	neutral	neutral
+32	x	x	x	x	x	x	x	I'm sorry , sir . What seems to be the trouble ?	what do you mean?	neutral	neutral	neutral	neutral	neutral	neutral
+33	x	x	x	x	x	x	x	Could I have my bill , please ?	i am afraid there are some loose ends.	neutral	neutral	neutral	neutral	neutral	neutral
+33	x	x	x	x	x	x	x	I'm afraid there's been a mistake .	i am afraid there are some loose ends.	neutral	neutral	neutral	neutral	neutral	neutral
+33	x	x	x	x	x	x	x	I believe you have charged me twice for the same thing . Look , the figure of 6.5 dollar appears here , then again here .	i am afraid there are some loose ends.	neutral	neutral	neutral	neutral	neutral	neutral
+34	x	x	x	x	x	x	x	Yes . I bought this sheet here yesterday .	i found a small hole in it. i had to put my foot in	neutral	neutral	neutral	neutral	neutral	neutral
+34	x	x	x	x	x	x	x	Yes . When I spread it out back home , I found this hole .	i found a small hole in it. i had to put my foot in	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Yes . I bought this sheet here yesterday .	yes, please.	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Yes . When I spread it out back home , I found this hole .	yes, please.	neutral	neutral	neutral	neutral	neutral	neutral
+35	x	x	x	x	x	x	x	Here it is .	yes, please.	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	Yes . I bought this sheet here yesterday .	thank you, my friend. i also bought a sheet.	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	Yes . When I spread it out back home , I found this hole .	thank you, my friend. i also bought a sheet.	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	Here it is .	thank you, my friend. i also bought a sheet.	neutral	neutral	neutral	neutral	neutral	neutral
+36	x	x	x	x	x	x	x	That's very kind of you . Thank you .	thank you, my friend. i also bought a sheet.	neutral	neutral	neutral	neutral	neutral	neutral
+37	x	x	x	x	x	x	x	Perhaps you'd be interested in red roses .	they would cost me a few hundred dollars.	neutral	neutral	neutral	neutral	neutral	neutral
+37	x	x	x	x	x	x	x	They're only $ 20 a dozen .	they would cost me a few hundred dollars.	neutral	neutral	neutral	neutral	neutral	neutral
+38	x	x	x	x	x	x	x	I need to buy some flowers for my wife .	that's a lot of money.	neutral	neutral	neutral	neutral	neutral	neutral
+38	x	x	x	x	x	x	x	What would the roses cost me ?	that's a lot of money.	neutral	neutral	neutral	neutral	neutral	neutral
+38	x	x	x	x	x	x	x	I like the sound of that .	that's a lot of money.	neutral	neutral	neutral	neutral	neutral	neutral
+39	x	x	x	x	x	x	x	Room service , is there anything I can do for you ?	i'm afraid of the same thing.	neutral	neutral	neutral	neutral	neutral	neutral
+39	x	x	x	x	x	x	x	Well , we have 6 for each room .	i'm afraid of the same thing.	neutral	neutral	neutral	neutral	neutral	neutral
+40	x	x	x	x	x	x	x	Room service , is there anything I can do for you ?	yes, i'm sorry, but i don't have time.	neutral	neutral	neutral	neutral	neutral	neutral
+40	x	x	x	x	x	x	x	Well , we have 6 for each room .	yes, i'm sorry, but i don't have time.	neutral	neutral	neutral	neutral	neutral	neutral
+40	x	x	x	x	x	x	x	OK sir , please wait a minute .	yes, i'm sorry, but i don't have time.	neutral	neutral	neutral	neutral	neutral	neutral
+41	x	x	x	x	x	x	x	Why'd you pull me over ?	i'm not sure, i'm sorry	neutral	neutral	neutral	neutral	neutral	neutral
+41	x	x	x	x	x	x	x	I ran a red light ?	i'm not sure, i'm sorry	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	Why'd you pull me over ?	i guess so, maybe it was the traffic	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	I ran a red light ?	i guess so, maybe it was the traffic	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	I apologize , but I didn't realize that I did .	i guess so, maybe it was the traffic	neutral	neutral	neutral	neutral	neutral	neutral
+42	x	x	x	x	x	x	x	I did learn that .	i guess so, maybe it was the traffic	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	Why'd you pull me over ?	i guess i am a bit of a weirdo	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	I ran a red light ?	i guess i am a bit of a weirdo	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	I apologize , but I didn't realize that I did .	i guess i am a bit of a weirdo	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	I did learn that .	i guess i am a bit of a weirdo	neutral	neutral	neutral	neutral	neutral	neutral
+43	x	x	x	x	x	x	x	I don't know what to tell you .	i guess i am a bit of a weirdo	neutral	neutral	neutral	neutral	neutral	neutral
+44	x	x	x	x	x	x	x	Surely of course .	yes you may.	neutral	neutral	neutral	neutral	neutral	neutral
+44	x	x	x	x	x	x	x	Sure .	yes you may.	neutral	neutral	neutral	neutral	neutral	neutral
+45	x	x	x	x	x	x	x	My name is Dunlin and I live in Beijing . I was born in 1980 . I will graduate from Peking University this July . I have majored in accounting .	i am in the business, so i've never been to school.	neutral	neutral	neutral	neutral	neutral	neutral
+45	x	x	x	x	x	x	x	There are three in my family , my parents and myself . My father is a teacher and my mother is a worker .	i am in the business, so i've never been to school.	neutral	neutral	neutral	neutral	neutral	neutral
+46	x	x	x	x	x	x	x	I have to start eating better too .	i eat mostly healthy stuff. i also like to eat healthy foods.	neutral	neutral	neutral	neutral	neutral	neutral
+46	x	x	x	x	x	x	x	I try my best to eat only fruits , vegetables , and chicken .	i eat mostly healthy stuff. i also like to eat healthy foods.	neutral	neutral	neutral	neutral	neutral	neutral
+47	x	x	x	x	x	x	x	I have to start eating better too .	yes.	neutral	neutral	neutral	neutral	neutral	neutral
+47	x	x	x	x	x	x	x	I try my best to eat only fruits , vegetables , and chicken .	yes.	neutral	neutral	neutral	neutral	neutral	neutral
+47	x	x	x	x	x	x	x	That's basically it .	yes.	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	Good afternoon ! Can I help you ?	yes, its in the basement of the hospital.	neutral	neutral	neutral	neutral	neutral	neutral
+48	x	x	x	x	x	x	x	This way , please . Here they are . They're all handmade .	yes, its in the basement of the hospital.	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .	that would be nice. thank you. i'm sure its a great color.	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	Oh , they look nice . May I try that black one on ?	that would be nice. thank you. i'm sure its a great color.	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	Do you have a medium in the same color ? This one is a little tight .	that would be nice. thank you. i'm sure its a great color.	neutral	neutral	neutral	neutral	neutral	neutral
+49	x	x	x	x	x	x	x	OK . Let me try it on . What do you think ?	that would be nice. thank you. i'm sure its a great color.	neutral	neutral	neutral	neutral	neutral	neutral
+50	x	x	x	x	x	x	x	Great , thanks .	i am in the process of looking for a job.	neutral	neutral	neutral	neutral	neutral	neutral
+50	x	x	x	x	x	x	x	I would actually like to view the apartment for rent today .	i am in the process of looking for a job.	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	How are you today ?	i'm sorry, i can help you if you like.	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	Can I help you ?	i'm sorry, i can help you if you like.	neutral	neutral	neutral	neutral	neutral	neutral
+51	x	x	x	x	x	x	x	I ’ m sorry , but you won ’ t be able to view it today .	i'm sorry, i can help you if you like.	neutral	neutral	neutral	neutral	neutral	neutral
+52	x	x	x	x	x	x	x	Great , thanks .	i don't understand. what is wrong?	neutral	neutral	neutral	neutral	neutral	neutral
+52	x	x	x	x	x	x	x	I would actually like to view the apartment for rent today .	i don't understand. what is wrong?	neutral	neutral	neutral	neutral	neutral	neutral
+52	x	x	x	x	x	x	x	Why not ?	i don't understand. what is wrong?	neutral	neutral	neutral	neutral	neutral	neutral
+53	x	x	x	x	x	x	x	Next , please . Hello , may I help you , sir ?	i will send it.	neutral	neutral	neutral	neutral	neutral	neutral
+53	x	x	x	x	x	x	x	Ok , it comes four dollars twenty cents .	i will send it.	neutral	neutral	neutral	neutral	neutral	neutral
+54	x	x	x	x	x	x	x	yeah , I'm glad that we didn't have to wait long . I'm starving !	i love samosas and samosas!	neutral	neutral	neutral	neutral	neutral	neutral
+54	x	x	x	x	x	x	x	what would you rather have , samosas or poppadoms ?	i love samosas and samosas!	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	we really were lucky . We got the last available table for two---and we didn't even have a reservation ! Did you see the long lines behind us ?	samosas. they are the best!	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?	samosas. they are the best!	neutral	neutral	neutral	neutral	neutral	neutral
+55	x	x	x	x	x	x	x	I heard that one of their specialities is the samosa .	samosas. they are the best!	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	we really were lucky . We got the last available table for two---and we didn't even have a reservation ! Did you see the long lines behind us ?	that's a good idea.	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?	that's a good idea.	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	I heard that one of their specialities is the samosa .	that's a good idea.	neutral	neutral	neutral	neutral	neutral	neutral
+56	x	x	x	x	x	x	x	sounds good . What are you going to have for your main course ?	that's a good idea.	neutral	neutral	neutral	neutral	neutral	neutral
+57	x	x	x	x	x	x	x	Yes , I'd like to reserve a table for dinner .	i'd like that.	neutral	neutral	neutral	neutral	neutral	neutral
+57	x	x	x	x	x	x	x	Six couples .	i'd like that.	neutral	neutral	neutral	neutral	neutral	neutral
+57	x	x	x	x	x	x	x	That sounds like a good idea .	i'd like that.	neutral	neutral	neutral	neutral	neutral	neutral
+58	x	x	x	x	x	x	x	It's nice to meet you , Mr . Cooper .	yes, i'm. i've been here before.	neutral	neutral	neutral	neutral	neutral	neutral
+58	x	x	x	x	x	x	x	Yes , it was quite a long flight . I'm glad to finally be here .	yes, i'm. i've been here before.	neutral	neutral	neutral	neutral	neutral	neutral
+59	x	x	x	x	x	x	x	Hi , Dan . What's new ?	i'm at work right now, so i'm alone.	neutral	neutral	neutral	neutral	neutral	neutral
+59	x	x	x	x	x	x	x	I went to Salt Lake City on business . What's up ?	i'm at work right now, so i'm alone.	neutral	neutral	neutral	neutral	neutral	neutral
+60	x	x	x	x	x	x	x	Where have you been ? I've been trying to get in touch with you for two days .	nothing much. just got back from the beach.	neutral	neutral	neutral	neutral	neutral	neutral
+60	x	x	x	x	x	x	x	I got fired .	nothing much. just got back from the beach.	neutral	neutral	neutral	neutral	neutral	neutral
+61	x	x	x	x	x	x	x	Have you ever gotten a parking ticket ?	i have. i am sure you will get one soon enough	neutral	neutral	neutral	neutral	neutral	neutral
+61	x	x	x	x	x	x	x	I got a ticket yesterday .	i have. i am sure you will get one soon enough	neutral	neutral	neutral	neutral	neutral	neutral
+62	x	x	x	x	x	x	x	I've never gotten one . Have you ?	that's awesome! i'm so proud of you!	neutral	neutral	neutral	neutral	neutral	neutral
+62	x	x	x	x	x	x	x	Really ? What did you get one for ?	that's awesome! i'm so proud of you!	neutral	neutral	neutral	neutral	neutral	neutral
+63	x	x	x	x	x	x	x	Have you ever gotten a parking ticket ?	i got a ticket for parking in the red zone.	neutral	neutral	neutral	neutral	neutral	neutral
+63	x	x	x	x	x	x	x	I got a ticket yesterday .	i got a ticket for parking in the red zone.	neutral	neutral	neutral	neutral	neutral	neutral
+63	x	x	x	x	x	x	x	I parked in the red zone .	i got a ticket for parking in the red zone.	neutral	neutral	neutral	neutral	neutral	neutral
+64	x	x	x	x	x	x	x	I ’ m having a problem .	i'm having a problem with my card.	neutral	neutral	neutral	neutral	neutral	neutral
+64	x	x	x	x	x	x	x	There have been charges made on my debit card that I didn ’ t make .	i'm having a problem with my card.	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	How may I help you ?	why not?	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	What problem are you having ?	why not?	neutral	neutral	neutral	neutral	neutral	neutral
+65	x	x	x	x	x	x	x	Do you have the statement for your card ?	why not?	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	I ’ m having a problem .	no i don't.	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	There have been charges made on my debit card that I didn ’ t make .	no i don't.	neutral	neutral	neutral	neutral	neutral	neutral
+66	x	x	x	x	x	x	x	Here it is .	no i don't.	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	Good afternoon . Can I be of service ?	i suppose it would be possible. are you an adult?	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	Yes , of course . We have Treasury Notes with two , three and five-year terms available .	i suppose it would be possible. are you an adult?	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	OK , could I take a look at some ID please , like a passport ?	i suppose it would be possible. are you an adult?	neutral	neutral	neutral	neutral	neutral	neutral
+67	x	x	x	x	x	x	x	No , I'm afraid that isn't possible . You must wait until maturity before you cash them .	i suppose it would be possible. are you an adult?	neutral	neutral	neutral	neutral	neutral	neutral
+68	x	x	x	x	x	x	x	I am not cheating . When you pass go , you collect $ 200 , Everyone knows that !	oh okay. you are a banker? i'm not sure what that means.	neutral	neutral	neutral	neutral	neutral	neutral
+68	x	x	x	x	x	x	x	Banker ?	oh okay. you are a banker? i'm not sure what that means.	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	Hey . Why did you take that money ? You are such a cheater ! I should send you to jail !	yes. i am a banker, you are a banker?	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .	yes. i am a banker, you are a banker?	neutral	neutral	neutral	neutral	neutral	neutral
+69	x	x	x	x	x	x	x	Yes ...	yes. i am a banker, you are a banker?	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	Hey . Why did you take that money ? You are such a cheater ! I should send you to jail !	i can not do that. i am a cheater	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .	i can not do that. i am a cheater	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	Yes ...	i can not do that. i am a cheater	neutral	neutral	neutral	neutral	neutral	neutral
+70	x	x	x	x	x	x	x	Sure . Here you are , $ 200 , Thank you , please come again ! Now it ’ s my turn to roll the dice .	i can not do that. i am a cheater	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	This is Professor Clark speaking .	what happened?	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	Yes , what can I do for you ?	what happened?	neutral	neutral	neutral	neutral	neutral	neutral
+71	x	x	x	x	x	x	x	My goodness ! Are you OK ?	what happened?	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	Hi , is this Professor Clark ’ s office ?	only for a few days.	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	Hi , this is Kalina from your morning literature class .	only for a few days.	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I had a skydiving accident over the weekend and won ’ t be able to come to school today .	only for a few days.	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I broke my leg , but it is healing .	only for a few days.	neutral	neutral	neutral	neutral	neutral	neutral
+72	x	x	x	x	x	x	x	I should be able to return by next Monday .	only for a few days.	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	This is Professor Clark speaking .	it is a great day out.	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	Yes , what can I do for you ?	it is a great day out.	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	My goodness ! Are you OK ?	it is a great day out.	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	How long will you be out of class ?	it is a great day out.	neutral	neutral	neutral	neutral	neutral	neutral
+73	x	x	x	x	x	x	x	Fine . Well , thanks for calling and letting me know you will be absent . I hope you feel better soon .	it is a great day out.	neutral	neutral	neutral	neutral	neutral	neutral
+74	x	x	x	x	x	x	x	Listen , Karen , I need your help . I don't know anyone here yet .	my mom is in the hospital. she just took a new job.	neutral	neutral	neutral	neutral	neutral	neutral
+74	x	x	x	x	x	x	x	My mother-in-law just went into the hospital in L.A.Hank and I will be flying there tonight .	my mom is in the hospital. she just took a new job.	neutral	neutral	neutral	neutral	neutral	neutral
+75	x	x	x	x	x	x	x	I'm glad to help you . What's wrong ?	that's too bad. i'm sorry to hear that.	neutral	neutral	neutral	neutral	neutral	neutral
+75	x	x	x	x	x	x	x	I'm sorry to hear it . What's wrong with her ?	that's too bad. i'm sorry to hear that.	neutral	neutral	neutral	neutral	neutral	neutral
+76	x	x	x	x	x	x	x	Good evening . What'll you have ?	beer is good. i like a beer.	neutral	neutral	neutral	neutral	neutral	neutral
+76	x	x	x	x	x	x	x	Draft beer and cans beer . Which do you prefer ?	beer is good. i like a beer.	neutral	neutral	neutral	neutral	neutral	neutral
+77	x	x	x	x	x	x	x	I'd like a beer . What kind of beer do you have ?	any kind of beer.	neutral	neutral	neutral	neutral	neutral	neutral
+77	x	x	x	x	x	x	x	A draft beer please .	any kind of beer.	neutral	neutral	neutral	neutral	neutral	neutral
+78	x	x	x	x	x	x	x	Fine , thank you , and how are you ?	it is going great. i have been working with the customers for a while, so it is going	neutral	neutral	neutral	neutral	neutral	neutral
+78	x	x	x	x	x	x	x	Yes , a very pleasant journey indeed . Thank you .	it is going great. i have been working with the customers for a while, so it is going	neutral	neutral	neutral	neutral	neutral	neutral
+78	x	x	x	x	x	x	x	Not bad . The fur market is not very brisk lately , but the selling season is advancing near . I hope there will be more buyers in the market this year .	it is going great. i have been working with the customers for a while, so it is going	neutral	neutral	neutral	neutral	neutral	neutral
+79	x	x	x	x	x	x	x	By the way miss , where is the toilet ?	i'm sorry, but i cannot help you. i am sorry.	neutral	neutral	neutral	neutral	neutral	neutral
+79	x	x	x	x	x	x	x	What ? Oh , what we live ! Thank you very much for your help , miss .	i'm sorry, but i cannot help you. i am sorry.	neutral	neutral	neutral	neutral	neutral	neutral
+80	x	x	x	x	x	x	x	excuse me , could you tell me which line I ’ m supposed to stand in to buy bubble wrap and to post a package ?	do you have any stamps at all?	neutral	neutral	neutral	neutral	neutral	neutral
+80	x	x	x	x	x	x	x	that ’ s a really long line . How long do you think it ’ ll take to get through all those people ?	do you have any stamps at all?	neutral	neutral	neutral	neutral	neutral	neutral
+80	x	x	x	x	x	x	x	can I buy stamps here ?	do you have any stamps at all?	neutral	neutral	neutral	neutral	neutral	neutral
+81	x	x	x	x	x	x	x	Good evening , Saliva . What's that wonderful aroma from your kitchen ? What are you doing now ?	me too! i'm a chef!	neutral	neutral	neutral	neutral	neutral	neutral
+81	x	x	x	x	x	x	x	Are you good at cooking ?	me too! i'm a chef!	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	Good evening , Saliva . What's that wonderful aroma from your kitchen ? What are you doing now ?	i have not, but i am a chef.	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	Are you good at cooking ?	i have not, but i am a chef.	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	It is a good idea . What dish are you cooking now ? !	i have not, but i am a chef.	neutral	neutral	neutral	neutral	neutral	neutral
+82	x	x	x	x	x	x	x	Yes , I have . But the taste of steamed fish at that restaurant is not delicious . The fish is not well-done and too salty .	i have not, but i am a chef.	neutral	neutral	neutral	neutral	neutral	neutral
+83	x	x	x	x	x	x	x	This is room 2012 . Where is my laundry ? You promised to send to me this morning .	yes, i want to go to bed. you?	neutral	neutral	neutral	neutral	neutral	neutral
+83	x	x	x	x	x	x	x	Yes , I ordered the express service .	yes, i want to go to bed. you?	neutral	neutral	neutral	neutral	neutral	neutral
+84	x	x	x	x	x	x	x	This is room 2012 . Where is my laundry ? You promised to send to me this morning .	yes, we can also send your laundry to your room.	neutral	neutral	neutral	neutral	neutral	neutral
+84	x	x	x	x	x	x	x	Yes , I ordered the express service .	yes, we can also send your laundry to your room.	neutral	neutral	neutral	neutral	neutral	neutral
+84	x	x	x	x	x	x	x	That's fine .	yes, we can also send your laundry to your room.	neutral	neutral	neutral	neutral	neutral	neutral
+85	x	x	x	x	x	x	x	Would you please fill some gas for me ?	i want to use a lot of gas.	neutral	neutral	neutral	neutral	neutral	neutral
+85	x	x	x	x	x	x	x	Unleaded , please .	i want to use a lot of gas.	neutral	neutral	neutral	neutral	neutral	neutral
+86	x	x	x	x	x	x	x	There's a new girl in school , have you seen her yet ?	i have not seen her either.	neutral	neutral	neutral	neutral	neutral	neutral
+86	x	x	x	x	x	x	x	I think that she is very pretty .	i have not seen her either.	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	There's a new girl in school , have you seen her yet ?	she is pretty cute. i like her.	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	I think that she is very pretty .	she is pretty cute. i like her.	neutral	neutral	neutral	neutral	neutral	neutral
+87	x	x	x	x	x	x	x	She's kind of short .	she is pretty cute. i like her.	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	There's a new girl in school , have you seen her yet ?	she's about 6 feet, 6 feet.	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	I think that she is very pretty .	she's about 6 feet, 6 feet.	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	She's kind of short .	she's about 6 feet, 6 feet.	neutral	neutral	neutral	neutral	neutral	neutral
+88	x	x	x	x	x	x	x	She's probably about five feet .	she's about 6 feet, 6 feet.	neutral	neutral	neutral	neutral	neutral	neutral
+89	x	x	x	x	x	x	x	Take a seat inside and see what you think.So you will take the Porsche then , sir ?	yes, and i want to buy a porsche, i have a lot of money.	neutral	neutral	neutral	neutral	neutral	neutral
+89	x	x	x	x	x	x	x	You're smart to buy it . At 45 dollars for three days , it is a good deal .	yes, and i want to buy a porsche, i have a lot of money.	neutral	neutral	neutral	neutral	neutral	neutral
+89	x	x	x	x	x	x	x	San Francisco ? No , sir.We only have this office here . You will have to return it here .	yes, and i want to buy a porsche, i have a lot of money.	neutral	neutral	neutral	neutral	neutral	neutral
+90	x	x	x	x	x	x	x	Look at the show on TV . I am watching a food show at a very famous seafood restaurant . I really want to eat at that restaurant . I am a seafood lover .	i am a really big fan of seafood.	neutral	neutral	neutral	neutral	neutral	neutral
+90	x	x	x	x	x	x	x	Sound great . Let's go !	i am a really big fan of seafood.	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	Where do you want to go ?	about 20 k.	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	Get in . I'll take you .	about 20 k.	neutral	neutral	neutral	neutral	neutral	neutral
+91	x	x	x	x	x	x	x	It will cost you $ 10 .	about 20 k.	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	Where do you want to go ?	i'm sorry, i'm just so exhausted	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	Get in . I'll take you .	i'm sorry, i'm just so exhausted	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	It will cost you $ 10 .	i'm sorry, i'm just so exhausted	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	You can see the time on the meter . I have radio time , you know .	i'm sorry, i'm just so exhausted	neutral	neutral	neutral	neutral	neutral	neutral
+92	x	x	x	x	x	x	x	Certainly .	i'm sorry, i'm just so exhausted	neutral	neutral	neutral	neutral	neutral	neutral
+93	x	x	x	x	x	x	x	You're made a good choice . This china tea set is unusual .	it was made in china.	neutral	neutral	neutral	neutral	neutral	neutral
+93	x	x	x	x	x	x	x	It was made in Jingdezhen .	it was made in china.	neutral	neutral	neutral	neutral	neutral	neutral
+94	x	x	x	x	x	x	x	You're made a good choice . This china tea set is unusual .	yes, it is. do you know anything about china?	neutral	neutral	neutral	neutral	neutral	neutral
+94	x	x	x	x	x	x	x	It was made in Jingdezhen .	yes, it is. do you know anything about china?	neutral	neutral	neutral	neutral	neutral	neutral
+94	x	x	x	x	x	x	x	You are right .	yes, it is. do you know anything about china?	neutral	neutral	neutral	neutral	neutral	neutral
+95	x	x	x	x	x	x	x	Hello , I am going to the store to buy some fruit .	sure, what is it?	neutral	neutral	neutral	neutral	neutral	neutral
+95	x	x	x	x	x	x	x	Yes ?	sure, what is it?	neutral	neutral	neutral	neutral	neutral	neutral
+96	x	x	x	x	x	x	x	French dressing , please .	yes, i want to try dressing,	neutral	neutral	neutral	neutral	neutral	neutral
+96	x	x	x	x	x	x	x	Oh , French dressing .	yes, i want to try dressing,	neutral	neutral	neutral	neutral	neutral	neutral
+96	x	x	x	x	x	x	x	We still prefer French dressing .	yes, i want to try dressing,	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Could I have some fish ?	sure. i'll have some fish.	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Oh , spinach , I think .	sure. i'll have some fish.	neutral	neutral	neutral	neutral	neutral	neutral
+97	x	x	x	x	x	x	x	Just a beer , please .	sure. i'll have some fish.	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	Certainly . And what vegetables would you like ?	yes, but i'll have some pasta instead.	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	Fine , And what about something to drink ?	yes, but i'll have some pasta instead.	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	Good . Thank you.sir .	yes, but i'll have some pasta instead.	neutral	neutral	neutral	neutral	neutral	neutral
+98	x	x	x	x	x	x	x	No , thanks . I ' Ve had enough . I'll have my bill , please .	yes, but i'll have some pasta instead.	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	What a pity !	yes that would be great.	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	That's OK .	yes that would be great.	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	Yes . I have to stay in your cry for just one day , can you suggest a short tour ?	the latter.	neutral	neutral	neutral	neutral	neutral	neutral
+99	x	x	x	x	x	x	x	I would prefer the first one .	the latter.	neutral	neutral	neutral	neutral	neutral	neutral
