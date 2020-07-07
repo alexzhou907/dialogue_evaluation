@@ -21,7 +21,7 @@ tqdm == 4.42.1
 ### Pretrained models
 Pretrained models are also available here:  
 - [GPT2-finetuned-on-dailydialog](https://drive.google.com/file/d/1kNBYgIucYRBXYdCnn8CQ5mSRLYKuL4Y2/view?usp=sharing)
-- [OpenNMT-dialogue-system-on-dailydialog]()
+- [OpenNMT-dialogue-system-on-dailydialog](https://drive.google.com/file/d/1kNBYgIucYRBXYdCnn8CQ5mSRLYKuL4Y2/view?usp=sharing)
 
 Please refer to OpenNMT website for OpenNMT model [here](https://opennmt.net/)
 
