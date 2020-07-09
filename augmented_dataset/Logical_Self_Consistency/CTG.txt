@@ -1,0 +1,910 @@
+sample 1:
+	history: Hey man , you wanna buy some weed ?
+		 Some what ?
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+		 Some what ?
+	pred: i don't know what you are talking about.
+	YOUR SCORE: 3
+sample 2:
+	history: Hey man , you wanna buy some weed ?
+		 Some what ?
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+		 Oh , umm , no thanks .
+		 I also have blow if you prefer to do a few lines .
+		 No , I am ok , really .
+		 Come on man ! I even got dope and acid ! Try some !
+		 No , I am ok , really .
+	pred: i'm sure you'll be fine.
+	YOUR SCORE: 4
+sample 3:
+	history: Hey man , you wanna buy some weed ?
+		 Some what ?
+		 Weed ! You know ? Pot , Ganja , Mary Jane some chronic !
+		 Oh , umm , no thanks .
+		 I also have blow if you prefer to do a few lines .
+		 No , I am ok , really .
+		 Come on man ! I even got dope and acid ! Try some !
+		 Do you really have all of these drugs ? Where do you get them from ?
+		 I got my connections ! Just tell me what you want and I ’ ll even give you one ounce for free .
+		 Do you really have all of their drugs ? Where do you get them from ?
+	pred: i get them from the club i work at
+	YOUR SCORE: 5
+sample 4:
+	history: The taxi drivers are on strike again .
+		 What for ?
+		 They want the government to reduce the price of the gasoline .
+		 What for ?
+	pred: that's what they want to do to the cars.
+	YOUR SCORE: 2
+sample 5:
+	history: The taxi drivers are on strike again .
+		 What for ?
+		 They want the government to reduce the price of the gasoline .
+		 It is really a hot potato .
+		 They want the government to reduce the price of the gasoline .
+	pred: that is great. i hope you are safe.
+	YOUR SCORE: 1
+sample 6:
+	history: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+		 That's excellent . How have you managed that ?
+		 Mainly because we've invested in a heat recovery system .
+		 That's excellent . How have you managed that ?
+	pred: we have been able to reduce energy in our factory.
+	YOUR SCORE: 3
+sample 7:
+	history: We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years .
+		 That's excellent . How have you managed that ?
+		 Mainly because we've invested in a heat recovery system .
+		 What does that mean exactly ?
+		 Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers .
+		 What does that mean exactly ?
+	pred: it means that we can save a ton of energy.
+	YOUR SCORE: 5
+sample 8:
+	history: Believe it or not , tea is the most popular beverage in the world after water .
+		 Well , people from Asia to Europe all enjoy tea .
+		 Right . And China is the homeland of tea .
+		 Yes , Chinese people love drinking tea so much . Some even claim they can't live without tea .
+		 Do you know there are several catagories of Chinese tea ?
+		 Yes , I believe there are green teas , black teas and scented teas . Any Others ?
+		 Do you know there are several catagories of Chinese tea ?
+	pred: yes, there are many.
+	YOUR SCORE: 5
+sample 9:
+	history: What are your personal weaknesses ?
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+		 Are you more of a leader or a follower ?
+		 I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+		 Are you more of a follower or a leader ?
+	pred: i like to keep to myself. i'm a person who does not want to be a follower
+	YOUR SCORE: 1
+sample 10:
+	history: What are your personal weaknesses ?
+		 I ’ m afraid I ’ m a poor talker . I ’ m not comfortable talking with the people whom I have just met for the first time . That is not very good for business , so I have been studying public speaking .
+		 Are you more of a leader or a follower ?
+		 I don ’ t try to lead people . I ’ d rather cooperate with everybody , and get the job done by working together .
+		 Do you think you can make yourself easily understood in English ?
+		 Yes , in most circumstances .
+		 Do you think you can make yourself easily understood in advance ?
+	pred: i think so.
+	YOUR SCORE: 4
+sample 11:
+	history: how long will it take us to drive to London ?
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+		 that ’ s unless there is a traffic jam . It could take three hours .
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+	pred: i agree, i want to go now.
+	YOUR SCORE: 4
+sample 12:
+	history: how long will it take us to drive to London ?
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+		 that ’ s unless there is a traffic jam . It could take three hours .
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+		 so , shall we allow three hours to cover the distance ?
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+	pred: agreed! what else do you like to do?
+	YOUR SCORE: 2
+sample 13:
+	history: how long will it take us to drive to London ?
+		 I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .
+		 that ’ s unless there is a traffic jam . It could take three hours .
+		 you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .
+		 so , shall we allow three hours to cover the distance ?
+		 ok . You haven ’ t seen my company car , have you ?
+		 so , shall we allow three hours to cover the distance ?
+	pred: ok. i'm looking forward to it. i've a huge car that will be a
+	YOUR SCORE: 4
+sample 14:
+	history: So how did I do on my driving test ?
+		 Do you want the truth ?
+		 Of course , I do .
+		 Do you want the truth ?
+	pred: i don't know.
+	YOUR SCORE: 1
+sample 15:
+	history: So how did I do on my driving test ?
+		 Do you want the truth ?
+		 Of course , I do .
+		 Well , you really didn't do all that well .
+		 How bad did I do ?
+		 To be completely honest , you failed your test .
+		 How bad did I do ?
+	pred: you didn't do well, but you'll be okay.
+	YOUR SCORE: 1
+sample 16:
+	history: So how did I do on my driving test ?
+		 Do you want the truth ?
+		 Of course , I do .
+		 Well , you really didn't do all that well .
+		 How bad did I do ?
+		 To be completely honest , you failed your test .
+		 How ?
+		 There were a number of reasons .
+		 What were they ?
+		 Basically , you just can't drive .
+		 What were they ?
+	pred: well, you just have to drive.
+	YOUR SCORE: 1
+sample 17:
+	history: So how did I do on my driving test ?
+		 Do you want the truth ?
+		 Of course , I do .
+		 Well , you really didn't do all that well .
+		 How bad did I do ?
+		 To be completely honest , you failed your test .
+		 How ?
+		 There were a number of reasons .
+		 What were they ?
+		 Basically , you just can't drive .
+		 Can I have another try ?
+		 You can take it in a couple weeks .
+		 Can I have another try ?
+	pred: sure.
+	YOUR SCORE: 4
+sample 18:
+	history: Good morning . What's the matter with you ?
+		 Good morning , doctor . I have a terrible headache .
+		 All right , young man . Tell me how it got started .
+		 Good morning , doctor . I have a terrible headache .
+	pred: i'm sorry to hear that. tell me about it.
+	YOUR SCORE: 4
+sample 19:
+	history: Good morning . What's the matter with you ?
+		 Good morning , doctor . I have a terrible headache .
+		 All right , young man . Tell me how it got started .
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+		 Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+	pred: i have a terrible headache, but i'm sure it will pass.
+	YOUR SCORE: 1
+sample 20:
+	history: Good morning . What's the matter with you ?
+		 Good morning , doctor . I have a terrible headache .
+		 All right , young man . Tell me how it got started .
+		 Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .
+		 Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+		 Ah .
+		 Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .
+	pred: okay, i will do that. i am sure it will be better by morning.
+	YOUR SCORE: 3
+sample 21:
+	history: My dear , what's for supper ?
+		 Red cooked carp and rape with fresh mushrooms .
+		 What about soup ?
+		 Sour-peppery soup .
+		 What kind of soup would you like to see ?
+	pred: anything with mushrooms in it.
+	YOUR SCORE: 5
+sample 22:
+	history: My dear , what's for supper ?
+		 Red cooked carp and rape with fresh mushrooms .
+		 What about soup ?
+		 Sour-peppery soup .
+		 Which condiment do you use for ?
+		 I'll use ginger , garlic scallion , hot pepper and vinegar .
+		 Which condiment do you use for ?
+	pred: the rosemary. i don't use mushrooms, but i do use pepper.
+	YOUR SCORE: 5
+sample 23:
+	history: My dear , what's for supper ?
+		 Red cooked carp and rape with fresh mushrooms .
+		 What about soup ?
+		 Sour-peppery soup .
+		 Which condiment do you use for ?
+		 I'll use ginger , garlic scallion , hot pepper and vinegar .
+		 Very good , need I help you ?
+		 I'll use ginger , garlic scallion , hot pepper and vinegar .
+	pred: do you like to cook?
+	YOUR SCORE: 3
+sample 24:
+	history: My dear , what's for supper ?
+		 Red cooked carp and rape with fresh mushrooms .
+		 What about soup ?
+		 Sour-peppery soup .
+		 Which condiment do you use for ?
+		 I'll use ginger , garlic scallion , hot pepper and vinegar .
+		 Very good , need I help you ?
+		 No , don't need , I can do myself .
+		 Very good , need I help you ?
+	pred: help you clean up?
+	YOUR SCORE: 1
+sample 25:
+	history: My dear , what's for supper ?
+		 Red cooked carp and rape with fresh mushrooms .
+		 What about soup ?
+		 Sour-peppery soup .
+		 Which condiment do you use for ?
+		 I'll use ginger , garlic scallion , hot pepper and vinegar .
+		 Very good , need I help you ?
+		 No , don't need , I can do myself .
+		 Thanks . I can watch TV now .
+		 No , don't need , I can do myself .
+	pred: i've a couch. i can sleep on it.
+	YOUR SCORE: 3
+sample 26:
+	history: Hello , this is Mike , Kara .
+		 Mike ! Good to hear from you . How are you ?
+		 Everything is fine , and how are you ?
+		 Things are going well with me .
+		 Everything is fine , and how are you ?
+	pred: good, just got off work.
+	YOUR SCORE: 3
+sample 27:
+	history: Sun-set hotel . May I help you ?
+		 Yes , I have booked a room for 24th . It's a double room .
+		 Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days .
+		 Yes , I have booked a room for 24th . It's a double room .
+	pred: i'm sure you'll get it. i need a bed anyway.
+	YOUR SCORE: 1
+sample 28:
+	history: Are you busy tomorrow morning ?
+		 I'm free . What's up ?
+		 Someone has to pick up the boss at the airport .
+		 Oh , I just remembered I've got a report to write .
+		 Someone has to pick up the boss at the airport .
+	pred: that's okay. i'm free. i'm just finishing up some paperwork.
+	YOUR SCORE: 1
+sample 29:
+	history: Nani Book Store . How can I help you ?
+		 Do you have the ' The man and the Sea ' by Ernest Hemingway ?
+		 Yes , we have one copy left .
+		 Do you have the ' The man and the Sea ' by Ernest Hemingway ?
+	pred: i do. i've a book that's about it.
+	YOUR SCORE: 3
+sample 30:
+	history: Do you have maps of downtown area ?
+		 Yes , here you are .
+		 How much is it ?
+		 It's free of charge .
+		 Thanks so much .
+	pred: it is nothing but a cheap ticket.
+	YOUR SCORE: 1
+sample 31:
+	history: Hi there , I want to reserve a hotel room .
+		 No problem at all . Could I have your full name , please ?
+		 Sure , John Sandals .
+		 No problem at all . Could I have your full name , please ?
+	pred: sure, john sandals.
+	YOUR SCORE: 5
+sample 32:
+	history: Could I have my bill , please ?
+		 Certainly , sir .
+		 I'm afraid there's been a mistake .
+		 I'm sorry , sir . What seems to be the trouble ?
+		 I'm afraid there has been a mistake .
+	pred: what do you mean?
+	YOUR SCORE: 4
+sample 33:
+	history: Could I have my bill , please ?
+		 Certainly , sir .
+		 I'm afraid there's been a mistake .
+		 I'm sorry , sir . What seems to be the trouble ?
+		 I believe you have charged me twice for the same thing . Look , the figure of 6.5 dollar appears here , then again here .
+		 I'm sorry , sir . What seems to be the trouble ?
+	pred: i am afraid there are some loose ends.
+	YOUR SCORE: 5
+sample 34:
+	history: Good evening , madam . Can I help you ?
+		 Yes . I bought this sheet here yesterday .
+		 Anything wrong with it ?
+		 Yes . When I spread it out back home , I found this hole .
+		 Anything wrong with it ?
+	pred: i found a small hole in it. i had to put my foot in
+	YOUR SCORE: 4
+sample 35:
+	history: Good evening , madam . Can I help you ?
+		 Yes . I bought this sheet here yesterday .
+		 Anything wrong with it ?
+		 Yes . When I spread it out back home , I found this hole .
+		 Oh , how awful ! May I have a look at the invoice ?
+		 Here it is .
+		 Oh , how awful . May I have a look at the invoice ?
+	pred: yes, please.
+	YOUR SCORE: 2
+sample 36:
+	history: Good evening , madam . Can I help you ?
+		 Yes . I bought this sheet here yesterday .
+		 Anything wrong with it ?
+		 Yes . When I spread it out back home , I found this hole .
+		 Oh , how awful ! May I have a look at the invoice ?
+		 Here it is .
+		 Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish .
+		 That's very kind of you . Thank you .
+		 Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish .
+	pred: thank you, my friend. i also bought a sheet.
+	YOUR SCORE: 4
+sample 37:
+	history: I need to buy some flowers for my wife .
+		 Perhaps you'd be interested in red roses .
+		 What would the roses cost me ?
+		 They're only $ 20 a dozen .
+		 What would the roses cost me ?
+	pred: they would cost me a few hundred dollars.
+	YOUR SCORE: 1
+sample 38:
+	history: I need to buy some flowers for my wife .
+		 Perhaps you'd be interested in red roses .
+		 What would the roses cost me ?
+		 They're only $ 20 a dozen .
+		 I like the sound of that .
+		 They're only $ 20 a dozen .
+	pred: that's a lot of money.
+	YOUR SCORE: 4
+sample 39:
+	history: Room service , is there anything I can do for you ?
+		 Yes , I am afraid there are not enough outlets .
+		 Well , we have 6 for each room .
+		 Yes , I am afraid there are not enough outlets .
+	pred: i'm afraid of the same thing.
+	YOUR SCORE: 2
+sample 40:
+	history: Room service , is there anything I can do for you ?
+		 Yes , I am afraid there are not enough outlets .
+		 Well , we have 6 for each room .
+		 Yes , but 4 of them are broken . Can you send someone here ?
+		 OK sir , please wait a minute .
+		 Yes , but 4 of them are broken . Can you send someone here ?
+	pred: yes, i'm sorry, but i don't have time.
+	YOUR SCORE: 2
+sample 41:
+	history: Why'd you pull me over ?
+		 Are you aware that you drove through a red light ?
+		 I ran a red light ?
+		 Are you aware that you drove through a red light ?
+	pred: i'm not sure, i'm sorry
+	YOUR SCORE: 5
+sample 42:
+	history: Why'd you pull me over ?
+		 Are you aware that you drove through a red light ?
+		 I ran a red light ?
+		 Yes , you did .
+		 I apologize , but I didn't realize that I did .
+		 Weren't you taught that yellow means slow down , not speed up ?
+		 I did learn that .
+		 Weren't you taught that yellow means slow down , not speed up ?
+	pred: i guess so, maybe it was the traffic
+	YOUR SCORE: 2
+sample 43:
+	history: Why'd you pull me over ?
+		 Are you aware that you drove through a red light ?
+		 I ran a red light ?
+		 Yes , you did .
+		 I apologize , but I didn't realize that I did .
+		 Weren't you taught that yellow means slow down , not speed up ?
+		 I did learn that .
+		 So , then why did you speed up ?
+		 I don't know what to tell you .
+		 So , then why did you speed up ?
+	pred: i guess i am a bit of a weirdo
+	YOUR SCORE: 5
+sample 44:
+	history: Can I have the roll of film developed here ?
+		 Surely of course .
+		 Here is the film . Can I get my pictures tomorrow ?
+		 Sure .
+		 Here is the film . Can I get my pictures tomorrow ?
+	pred: yes you may.
+	YOUR SCORE: 5
+sample 45:
+	history: Tell me a little bit about yourself , please .
+		 My name is Dunlin and I live in Beijing . I was born in 1980 . I will graduate from Peking University this July . I have majored in accounting .
+		 Would you tell me something about your family ?
+		 There are three in my family , my parents and myself . My father is a teacher and my mother is a worker .
+		 Would you tell me something about your family ?
+	pred: i am in the business, so i've never been to school.
+	YOUR SCORE: 1
+sample 46:
+	history: I really need to start eating healthier .
+		 I have to start eating better too .
+		 What kind of food do you usually eat ?
+		 I try my best to eat only fruits , vegetables , and chicken .
+		 What kind of food do you usually eat ?
+	pred: i eat mostly healthy stuff. i also like to eat healthy foods.
+	YOUR SCORE: 4
+sample 47:
+	history: I really need to start eating healthier .
+		 I have to start eating better too .
+		 What kind of food do you usually eat ?
+		 I try my best to eat only fruits , vegetables , and chicken .
+		 Is that really all that you eat ?
+		 That's basically it .
+		 Is that really all that you eat ?
+	pred: yes.
+	YOUR SCORE: 5
+sample 48:
+	history: Good afternoon ! Can I help you ?
+		 Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .
+		 This way , please . Here they are . They're all handmade .
+		 Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .
+	pred: yes, its in the basement of the hospital.
+	YOUR SCORE: 1
+sample 49:
+	history: Good afternoon ! Can I help you ?
+		 Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .
+		 This way , please . Here they are . They're all handmade .
+		 Oh , they look nice . May I try that black one on ?
+		 Of course . The fitting room is right over there .
+		 Do you have a medium in the same color ? This one is a little tight .
+		 l'm sorry . All the black of that size are sold out . Would you like a red one ?
+		 OK . Let me try it on . What do you think ?
+		 l'm sorry . All the black of that size are sold out . Would you like a red one ?
+	pred: that would be nice. thank you. i'm sure its a great color.
+	YOUR SCORE: 5
+sample 50:
+	history: How are you today ?
+		 Great , thanks .
+		 Can I help you ?
+		 I would actually like to view the apartment for rent today .
+		 Can I help you ?
+	pred: i am in the process of looking for a job.
+	YOUR SCORE: 1
+sample 51:
+	history: How are you today ?
+		 Great , thanks .
+		 Can I help you ?
+		 I would actually like to view the apartment for rent today .
+		 I ’ m sorry , but you won ’ t be able to view it today .
+		 I would actually like to view the apartment for rent now .
+	pred: i'm sorry, i can help you if you like.
+	YOUR SCORE: 1
+sample 52:
+	history: How are you today ?
+		 Great , thanks .
+		 Can I help you ?
+		 I would actually like to view the apartment for rent today .
+		 I ’ m sorry , but you won ’ t be able to view it today .
+		 Why not ?
+		 I ’ m sorry , but you won ’ t be able to view it today .
+	pred: i don't understand. what is wrong?
+	YOUR SCORE: 4
+sample 53:
+	history: Next , please . Hello , may I help you , sir ?
+		 Yes , I want to send a registered airmail letter to France .
+		 Ok , it comes four dollars twenty cents .
+		 Yes , I want to send a registered airmail letter to France .
+	pred: i will send it.
+	YOUR SCORE: 3
+sample 54:
+	history: we really were lucky . We got the last available table for two---and we didn't even have a reservation ! Did you see the long lines behind us ?
+		 yeah , I'm glad that we didn't have to wait long . I'm starving !
+		 let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?
+		 what would you rather have , samosas or poppadoms ?
+		 let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?
+	pred: i love samosas and samosas!
+	YOUR SCORE: 4
+sample 55:
+	history: we really were lucky . We got the last available table for two---and we didn't even have a reservation ! Did you see the long lines behind us ?
+		 yeah , I'm glad that we didn't have to wait long . I'm starving !
+		 let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?
+		 what would you rather have , samosas or poppadoms ?
+		 I heard that one of their specialities is the samosa .
+		 what would you rather have , samosas or poppadoms ?
+	pred: samosas. they are the best!
+	YOUR SCORE: 5
+sample 56:
+	history: we really were lucky . We got the last available table for two---and we didn't even have a reservation ! Did you see the long lines behind us ?
+		 yeah , I'm glad that we didn't have to wait long . I'm starving !
+		 let's take a look at the menu so we can order . Do you want to choose an appetizer for us to share ?
+		 what would you rather have , samosas or poppadoms ?
+		 I heard that one of their specialities is the samosa .
+		 well , let's get a plate of those then .
+		 sounds good . What are you going to have for your main course ?
+		 Well , let's get a plate of those then .
+	pred: that's a good idea.
+	YOUR SCORE: 3
+sample 57:
+	history: pompous . How may I help you ?
+		 Yes , I'd like to reserve a table for dinner .
+		 How large a group are you expecting ?
+		 Six couples .
+		 Would you like to reserve a private dining room ?
+		 That sounds like a good idea .
+		 Would you like to reserve a private dining room ?
+	pred: i'd like that.
+	YOUR SCORE: 5
+sample 58:
+	history: Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .
+		 It's nice to meet you , Mr . Cooper .
+		 Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .
+		 Yes , it was quite a long flight . I'm glad to finally be here .
+		 Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .
+	pred: yes, i'm. i've been here before.
+	YOUR SCORE: 4
+sample 59:
+	history: Hi , Dan . What's new ?
+		 Where have you been ? I've been trying to get in touch with you for two days .
+		 I went to Salt Lake City on business . What's up ?
+		 Where have you been ? I've been trying to get in touch with you for two hours .
+	pred: i'm at work right now, so i'm alone.
+	YOUR SCORE: 3
+sample 60:
+	history: Hi , Dan . What's new ?
+		 Where have you been ? I've been trying to get in touch with you for two days .
+		 I went to Salt Lake City on business . What's up ?
+		 I got fired .
+		 I went to Salt Lake City on business . What's up ?
+	pred: nothing much. just got back from the beach.
+	YOUR SCORE: 3
+sample 61:
+	history: Have you ever gotten a parking ticket ?
+		 I've never gotten one . Have you ?
+		 I got a ticket yesterday .
+		 I've never gotten one . Have you ?
+	pred: i have. i am sure you will get one soon enough
+	YOUR SCORE: 5
+sample 62:
+	history: Have you ever gotten a parking ticket ?
+		 I've never gotten one . Have you ?
+		 I got a ticket yesterday .
+		 Really ? What did you get one for ?
+		 I got a ticket yesterday .
+	pred: that's awesome! i'm so proud of you!
+	YOUR SCORE: 2
+sample 63:
+	history: Have you ever gotten a parking ticket ?
+		 I've never gotten one . Have you ?
+		 I got a ticket yesterday .
+		 Really ? What did you get one for ?
+		 I parked in the red zone .
+		 Really ? What did you get one for ?
+	pred: i got a ticket for parking in the red zone.
+	YOUR SCORE: 5
+sample 64:
+	history: How may I help you ?
+		 I ’ m having a problem .
+		 What problem are you having ?
+		 There have been charges made on my debit card that I didn ’ t make .
+		 What problem are you having ?
+	pred: i'm having a problem with my card.
+	YOUR SCORE: 5
+sample 65:
+	history: How may I help you ?
+		 I ’ m having a problem .
+		 What problem are you having ?
+		 There have been charges made on my debit card that I didn ’ t make .
+		 Do you have the statement for your card ?
+		 There have been charges made on my debit card that I didn ’ t make .
+	pred: why not?
+	YOUR SCORE: 1
+sample 66:
+	history: How may I help you ?
+		 I ’ m having a problem .
+		 What problem are you having ?
+		 There have been charges made on my debit card that I didn ’ t make .
+		 Do you have the statement for your card ?
+		 Here it is .
+		 Do you have the card ?
+	pred: no i don't.
+	YOUR SCORE: 5
+sample 67:
+	history: Good afternoon . Can I be of service ?
+		 I don't know . Can I purchase Treasury Certificates here at this counter ?
+		 Yes , of course . We have Treasury Notes with two , three and five-year terms available .
+		 Two years is fine , with a value of 1,000 RIB .
+		 OK , could I take a look at some ID please , like a passport ?
+		 Here you go . By the way , is it possible to cash them before the maturity comes up ?
+		 No , I'm afraid that isn't possible . You must wait until maturity before you cash them .
+		 Here you go . By the way , is it possible to cash them before the maturity comes up ?
+	pred: i suppose it would be possible. are you an adult?
+	YOUR SCORE: 1
+sample 68:
+	history: Hey . Why did you take that money ? You are such a cheater ! I should send you to jail !
+		 I am not cheating . When you pass go , you collect $ 200 , Everyone knows that !
+		 Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .
+		 Banker ?
+		 Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .
+	pred: oh okay. you are a banker? i'm not sure what that means.
+	YOUR SCORE: 4
+sample 69:
+	history: Hey . Why did you take that money ? You are such a cheater ! I should send you to jail !
+		 I am not cheating . When you pass go , you collect $ 200 , Everyone knows that !
+		 Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .
+		 Banker ?
+		 Yes ...
+		 Banker ?
+	pred: yes. i am a banker, you are a banker?
+	YOUR SCORE: 3
+sample 70:
+	history: Hey . Why did you take that money ? You are such a cheater ! I should send you to jail !
+		 I am not cheating . When you pass go , you collect $ 200 , Everyone knows that !
+		 Well you can ’ t just take the money . You have to ask the bank for money . And I ’ m the banker .
+		 Banker ?
+		 Yes ...
+		 Can I have my $ 200 please ?
+		 Sure . Here you are , $ 200 , Thank you , please come again ! Now it ’ s my turn to roll the dice .
+		 Can I have my $ 200 please ?
+	pred: i can not do that. i am a cheater
+	YOUR SCORE: 1
+sample 71:
+	history: Hi , is this Professor Clark ’ s office ?
+		 This is Professor Clark speaking .
+		 Hi , this is Kalina from your morning literature class .
+		 Yes , what can I do for you ?
+		 I had a skydiving accident over the weekend and won ’ t be able to come to school today .
+		 My goodness ! Are you OK ?
+		 I had a skydiving accident over the weekend and won ’ t be able to come to now .
+	pred: what happened?
+	YOUR SCORE: 4
+sample 72:
+	history: Hi , is this Professor Clark ’ s office ?
+		 This is Professor Clark speaking .
+		 Hi , this is Kalina from your morning literature class .
+		 Yes , what can I do for you ?
+		 I had a skydiving accident over the weekend and won ’ t be able to come to school today .
+		 My goodness ! Are you OK ?
+		 I broke my leg , but it is healing .
+		 How long will you be out of class ?
+		 I should be able to return by next Monday .
+		 how long will you be out of class ?
+	pred: only for a few days.
+	YOUR SCORE: 4
+sample 73:
+	history: Hi , is this Professor Clark ’ s office ?
+		 This is Professor Clark speaking .
+		 Hi , this is Kalina from your morning literature class .
+		 Yes , what can I do for you ?
+		 I had a skydiving accident over the weekend and won ’ t be able to come to school today .
+		 My goodness ! Are you OK ?
+		 I broke my leg , but it is healing .
+		 How long will you be out of class ?
+		 I should be able to return by next Monday .
+		 Fine . Well , thanks for calling and letting me know you will be absent . I hope you feel better soon .
+		 I should be able to return by next Monday .
+	pred: it is a great day out.
+	YOUR SCORE: 3
+sample 74:
+	history: Listen , Karen , I need your help . I don't know anyone here yet .
+		 I'm glad to help you . What's wrong ?
+		 My mother-in-law just went into the hospital in L.A.Hank and I will be flying there tonight .
+		 I'm glad to help you . What's wrong ?
+	pred: my mom is in the hospital. she just took a new job.
+	YOUR SCORE: 1
+sample 75:
+	history: Listen , Karen , I need your help . I don't know anyone here yet .
+		 I'm glad to help you . What's wrong ?
+		 My mother-in-law just went into the hospital in L.A.Hank and I will be flying there tonight .
+		 I'm sorry to hear it . What's wrong with her ?
+		 My mother-in-law just went into the hospital in L.A.Hank and I will be flying there today .
+	pred: that's too bad. i'm sorry to hear that.
+	YOUR SCORE: 5
+sample 76:
+	history: Good evening . What'll you have ?
+		 I'd like a beer . What kind of beer do you have ?
+		 Draft beer and cans beer . Which do you prefer ?
+		 I'd like a beer . What kind of beer do you have ?
+	pred: beer is good. i like a beer.
+	YOUR SCORE: 1
+sample 77:
+	history: Good evening . What'll you have ?
+		 I'd like a beer . What kind of beer do you have ?
+		 Draft beer and cans beer . Which do you prefer ?
+		 A draft beer please .
+		 Draft beer and cans beer . Which do you prefer ?
+	pred: any kind of beer.
+	YOUR SCORE: 5
+sample 78:
+	history: Hello , Mr . Black , how are you ?
+		 Fine , thank you , and how are you ?
+		 Very well , thank you . It's nice to meet you again . I am awfully sorry for not being able to meet you at the airport , as I was busy yesterday . I do hope you had a very enjoyable trip from New York .
+		 Yes , a very pleasant journey indeed . Thank you .
+		 How are you getting along with your business ?
+		 Not bad . The fur market is not very brisk lately , but the selling season is advancing near . I hope there will be more buyers in the market this year .
+		 How are you getting along with your business going ?
+	pred: it is going great. i have been working with the customers for a while, so it is going
+	YOUR SCORE: 4
+sample 79:
+	history: By the way miss , where is the toilet ?
+		 Toilets are in the rear , I am afraid all the toilets are fully occupied at the moment .
+		 What ? Oh , what we live ! Thank you very much for your help , miss .
+		 Toilets are in the rear , I am afraid all the toilets are fully occupied at the moment .
+	pred: i'm sorry, but i cannot help you. i am sorry.
+	YOUR SCORE: 3
+sample 80:
+	history: excuse me , could you tell me which line I ’ m supposed to stand in to buy bubble wrap and to post a package ?
+		 you can buy the bubble wrap here , but you ’ ll have to stand in line over here to post your passage .
+		 that ’ s a really long line . How long do you think it ’ ll take to get through all those people ?
+		 it takes about 3 minutes per person , so it ’ ll probably be about an hour ’ s wait .
+		 can I buy stamps here ?
+		 it takes about 3 minutes per person , so it ’ ll probably be about an hour ’ s wait .
+	pred: do you have any stamps at all?
+	YOUR SCORE: 5
+sample 81:
+	history: Good evening , Saliva . What's that wonderful aroma from your kitchen ? What are you doing now ?
+		 I am cooking now !
+		 Are you good at cooking ?
+		 I am cooking now !
+	pred: me too! i'm a chef!
+	YOUR SCORE: 1
+sample 82:
+	history: Good evening , Saliva . What's that wonderful aroma from your kitchen ? What are you doing now ?
+		 I am cooking now !
+		 Are you good at cooking ?
+		 I have studied its skills recently at a training school . I plan to run a restaurant , so I have to practise cooking !
+		 It is a good idea . What dish are you cooking now ? !
+		 I am steaming fish in a pressure cooker . Have you ever tried steamed fish ?
+		 Yes , I have . But the taste of steamed fish at that restaurant is not delicious . The fish is not well-done and too salty .
+		 I am steaming fish in a pressure cooker . Have you ever tried steamed fish ?
+	pred: i have not, but i am a chef.
+	YOUR SCORE:1
+sample 83: 1
+	history: Room service.What can I do for you ?
+		 This is room 2012 . Where is my laundry ? You promised to send to me this morning .
+		 Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?
+		 Yes , I ordered the express service .
+		 Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?
+	pred: yes, i want to go to bed. you?
+	YOUR SCORE: 1
+sample 84:
+	history: Room service.What can I do for you ?
+		 This is room 2012 . Where is my laundry ? You promised to send to me this morning .
+		 Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?
+		 Yes , I ordered the express service .
+		 Sir , we are terribly sorry for that.We will refund the charge and send your laundry to your room 3 hours later . Is that all right ?
+		 That's fine .
+		 Sir , we are terribly sorry for that.We will send your laundry to your room 3 hours later . Is that all right ?
+	pred: yes, we can also send your laundry to your room.
+	YOUR SCORE: 1
+sample 85:
+	history: Excuse me , may I help you ?
+		 Would you please fill some gas for me ?
+		 Sure . Which kind of gas do you want ?
+		 Unleaded , please .
+		 Sure . Which kind of gas do you want ?
+	pred: i want to use a lot of gas.
+	YOUR SCORE: 3
+sample 86:
+	history: There's a new girl in school , have you seen her yet ?
+		 I haven't seen her yet .
+		 I think that she is very pretty .
+		 I haven't seen her yet .
+	pred: i have not seen her either.
+	YOUR SCORE: 2
+sample 87:
+	history: There's a new girl in school , have you seen her yet ?
+		 I haven't seen her yet .
+		 I think that she is very pretty .
+		 Tell me how she looks .
+		 She's kind of short .
+		 Tell me how she looks .
+	pred: she is pretty cute. i like her.
+	YOUR SCORE: 3
+sample 88:
+	history: There's a new girl in school , have you seen her yet ?
+		 I haven't seen her yet .
+		 I think that she is very pretty .
+		 Tell me how she looks .
+		 She's kind of short .
+		 What height is she ?
+		 She's probably about five feet .
+		 What height is she ?
+	pred: she's about 6 feet, 6 feet.
+	YOUR SCORE: 1
+sample 89:
+	history: Take a seat inside and see what you think.So you will take the Porsche then , sir ?
+		 Yes , and I want to buy the insurance too . I think it's necessary .
+		 You're smart to buy it . At 45 dollars for three days , it is a good deal .
+		 Can I return the car in San Francisco ?
+		 San Francisco ? No , sir.We only have this office here . You will have to return it here .
+		 Can I return the car in San Francisco ?
+	pred: yes, and i want to buy a porsche, i have a lot of money.
+	YOUR SCORE: 1
+sample 90:
+	history: Look at the show on TV . I am watching a food show at a very famous seafood restaurant . I really want to eat at that restaurant . I am a seafood lover .
+		 Speaking of seafood , my mouth is watering . Let's go to the seafood restaurant in our neighborhood .
+		 Sound great . Let's go !
+		 Speaking of seafood , my mouth is watering . Let's go to the seafood restaurant in our neighborhood .
+	pred: i am a really big fan of seafood.
+	YOUR SCORE: 4
+sample 91:
+	history: Where do you want to go ?
+		 I'm going to the hospital .
+		 Get in . I'll take you .
+		 About how much will it cost ?
+		 It will cost you $ 10 .
+		 About how much will it will cost ?
+	pred: about 20 k.
+	YOUR SCORE: 1
+sample 92:
+	history: Where do you want to go ?
+		 I'm going to the hospital .
+		 Get in . I'll take you .
+		 About how much will it cost ?
+		 It will cost you $ 10 .
+		 By the way , what's the time ?
+		 You can see the time on the meter . I have radio time , you know .
+		 It's a quarter to 12 . Could you please drive a little faster ?
+		 Certainly .
+		 It's a quarter to 12 . Could you please drive a little faster ?
+	pred: i'm sorry, i'm just so exhausted
+	YOUR SCORE: 3
+sample 93:
+	history: You're made a good choice . This china tea set is unusual .
+		 Where was it from ?
+		 It was made in Jingdezhen .
+		 Where was it from ?
+	pred: it was made in china.
+	YOUR SCORE: 5
+sample 94:
+	history: You're made a good choice . This china tea set is unusual .
+		 Where was it from ?
+		 It was made in Jingdezhen .
+		 Jingdezhen ? Isn't it called ' the capital of porcelain ' ?
+		 You are right .
+		 Jingdezhen ? Isn't it called ' the capital of porcelain ' ?
+	pred: yes, it is. do you know anything about china?
+	YOUR SCORE: 5
+sample 95:
+	history: Hello , Miao Li , Where are you going ?
+		 Hello , I am going to the store to buy some fruit .
+		 Oh , Would you do me a favor ?
+		 Yes ?
+		 Oh , Would you do me a favor ?
+	pred: sure, what is it?
+	YOUR SCORE: 5
+sample 96:
+	history: What dressing would you like on the salad ?
+		 French dressing , please .
+		 I beg your pardon ?
+		 Oh , French dressing .
+		 Sorry , it's not available now.Anything else ?
+		 We still prefer French dressing .
+		 Sorry , it's not available now . Anything else ?
+	pred: yes, i want to try dressing,
+	YOUR SCORE: 2
+sample 97:
+	history: Could I have some fish ?
+		 Certainly . And what vegetables would you like ?
+		 Oh , spinach , I think .
+		 Fine , And what about something to drink ?
+		 Just a beer , please .
+		 Fine , And what about something to drink ?
+	pred: sure. i'll have some fish.
+	YOUR SCORE: 3
+sample 98:
+	history: Could I have some fish ?
+		 Certainly . And what vegetables would you like ?
+		 Oh , spinach , I think .
+		 Fine , And what about something to drink ?
+		 Just a beer , please .
+		 Good . Thank you.sir .
+		 Would you like to have some more beer ?
+		 No , thanks . I ' Ve had enough . I'll have my bill , please .
+		 Would you like to have some more beer ?
+	pred: yes, but i'll have some pasta instead.
+	YOUR SCORE: 1
+sample 99:
+	history: I'm sorry , our appointment has to be changed .
+		 What a pity !
+		 If you don't mind , may we put it off to the next day ?
+		 That's OK .
+		 If you don't mind , may we put it off to the next day ?
+	pred: yes that would be great.
+	YOUR SCORE: 5
+sample 100:
+	history: May I help you ?
+		 Yes . I have to stay in your cry for just one day , can you suggest a short tour ?
+		 Are you interested in the natural landscape or the human landscape ?
+		 I would prefer the first one .
+		 Are you interested in the natural landscape or the human landscape ?
+	pred: the latter.
+	YOUR SCORE: 1
